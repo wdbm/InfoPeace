@@ -1,6 +1,9 @@
 # InfoPeace
 
+![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/McDonalds_Nutrition_Systems.png)
+
 The beginnings of a collection of ideas for societal-level defences against active disinformation campaigns and strategies or: How I learned to stop worrying and start a collaborative repository to try to prevent mind-hacking
+
 
 # IPUUID4
 
