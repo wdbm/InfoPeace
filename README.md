@@ -16,7 +16,7 @@ print(str(uuid.uuid4()))
 
 # Background
 
-The following is a proposed order of consumption.
+The following is a proposed order of consumption. Inclusion does not imply endorsement.
 
 |**title**                                                                                                              |**author(/s)**/**sources**                                       |**datetime**   |**comments**                                  |**IPUUID4**                                                                                      |
 |-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------|----------------------------------------------|-------------------------------------------------------------------------------------------------|
