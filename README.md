@@ -13,6 +13,8 @@ import uuid
 print(str(uuid.uuid4()))
 ```
 
+Such identifier codes could be used with a link-shortening service like [ovipositor](https://www.wdbm.pro/ovipositor).
+
 ![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/image20181018_175523456.jpg)
 ![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/image20181018_175644246.jpg)
 
