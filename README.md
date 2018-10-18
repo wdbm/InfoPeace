@@ -13,6 +13,9 @@ import uuid
 print(str(uuid.uuid4()))
 ```
 
+![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/image20181018_175523456.png)
+![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/image20181018_175644246.png)
+
 # Background
 
 The following is a proposed order of consumption. Inclusion does not imply endorsement.
