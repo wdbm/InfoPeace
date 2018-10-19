@@ -77,6 +77,8 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 |----------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------|----------------------------------------------|----------------------------------------------------------------|
 |![][5b7887]           |*Twitter Elections Integrity Database*                                                                                 |Twitter                                                          |2018-10-17     |                                              |[ref](https://www.wdbm.pro/1f775bd3-f8c3-4b74-86cb-50db965fe682)|
 
+![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-19T1432Z.png.png)
+
 [//]: # (handy reference-style links)
 
 [f1e1bd]: https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/f1e1bd.png
