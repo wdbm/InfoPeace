@@ -6,11 +6,10 @@ The beginnings of a collection of ideas for societal-level defences against acti
 
 # IPUUID4
 
-This is a simple general reference format that can be generated in the following way:
+This is a simple general reference format that can be generated in the following way, perhaps as a `.bashrc` function:
 
 ```Python
-import uuid
-print(str(uuid.uuid4()))
+ipuuid4(){python -c "import uuid; print(uuid.uuid4())"}
 ```
 
 Such identifier codes could be used with a link-shortening service like [ovipositor](https://www.wdbm.pro/ovipositor).
@@ -52,6 +51,7 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 |*High Commissioner Dialogue with Ben Ferencz*                                                                          |UN                                                               |2018-08-07     |                                              |[0f2dd31f-3d38-4e48-b313-3f031f28d3a2](https://www.wdbm.pro/0f2dd31f-3d38-4e48-b313-3f031f28d3a2)|
 |*From Dictatorship to Democracy*                                                                                       |Gene Sharp                                                       |1993           |                                              |[0900817a-4a62-49b1-8fce-77d128d817b1](https://www.wdbm.pro/0900817a-4a62-49b1-8fce-77d128d817b1)|
 |*Prevent Strategy*                                                                                                     |UK Home Office                                                   |2011           |                                              |[ee66cf1c-59f9-40fb-9172-fe0e6042d978](https://www.wdbm.pro/ee66cf1c-59f9-40fb-9172-fe0e6042d978)|
+|*Enabling further research of information operations on Twitter*                                                       |Vijaya Gadde, Yoel Roth                                          |2018-10-17     |                                              |[d2393913-1417-4644-90e4-d09fdd3eb265](https://www.wdbm.pro/d2393913-1417-4644-90e4-d09fdd3eb265)|
 |*Generalized Network Dismantling*                                                                                      |Xiao-Long Ren, Niels Gleinig, Dirk Helbing, Nino Antulov-Fantulin|2018-01-04     |                                              |[6332ea7e-18aa-4f5d-9f6c-5203654296a2](https://www.wdbm.pro/6332ea7e-18aa-4f5d-9f6c-5203654296a2)|
 |*Believing Bullshit: How Not to Get Sucked into an Intellectual Black Hole*                                            |Stephen Law                                                      |2011           |                                              |[48d4c55d-86b5-4cfe-8b68-33ffbe98c21e](https://www.wdbm.pro/48d4c55d-86b5-4cfe-8b68-33ffbe98c21e)|
 |*Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments*|Justin Kruger, David Dunning                                     |1999           |                                              |[ca20479b-5d43-4177-b035-85e7a2b4c0a4](https://www.wdbm.pro/ca20479b-5d43-4177-b035-85e7a2b4c0a4)|
@@ -60,3 +60,9 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 |*denarius unconditional universal basic income guarantee (that section)*                                               |Will Breaden Madden                                              |2018           |                                              |[becca019-ae8f-47e3-a643-f27bece03534](https://www.wdbm.pro/becca019-ae8f-47e3-a643-f27bece03534)|
 |*distributed_wellbeing*                                                                                                |Will Breaden Madden                                              |2016           |                                              |[701e1a41-6fc2-4386-84cb-4540818c784f](https://www.wdbm.pro/701e1a41-6fc2-4386-84cb-4540818c784f)|
 |*Apocalypse Now*                                                                                                       |Francis Coppola                                                  |1979-05-10     |                                              |[518900c6-1962-4b33-8799-276a2a4f93de](https://www.wdbm.pro/518900c6-1962-4b33-8799-276a2a4f93de)|
+
+# Resources
+
+|**title**                                                                                                              |**author(/s)**/**sources**                                       |**datetime**   |**comments**                                  |**IPUUID4**                                                                                      |
+|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------|----------------------------------------------|-------------------------------------------------------------------------------------------------|
+|*Twitter Elections Integrity Database*                                                                                 |Twitter                                                          |2018-10-17     |                                              |[1f775bd3-f8c3-4b74-86cb-50db965fe682](https://www.wdbm.pro/1f775bd3-f8c3-4b74-86cb-50db965fe682)|
