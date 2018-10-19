@@ -17,6 +17,16 @@ Such identifier codes could be used with a link-shortening service like [oviposi
 ![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/image20181018_175523456.jpg)
 ![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/image20181018_175644246.jpg)
 
+# Aesthetic Colors
+
+|**color**  |**hexcode**|
+|-----------|-----------|
+|![][f1e1bd]|\#f1e1bd   |
+|![][eeba85]|\#eeba85   |
+|![][e18d76]|\#e18d76   |
+|![][9c837e]|\#9c837e   |
+|![][5b7887]|\#5b7887   |
+
 # Background
 
 The following is a proposed order of consumption. Inclusion does not imply endorsement.
@@ -66,16 +76,6 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 |**relative aesthetic**|**title**                                                                                                              |**author(/s)**/**sources**                                       |**datetime**   |**comments**                                  |**IPUUID4**                                                     |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------|----------------------------------------------|----------------------------------------------------------------|
 |![][5b7887]           |*Twitter Elections Integrity Database*                                                                                 |Twitter                                                          |2018-10-17     |                                              |[ref](https://www.wdbm.pro/1f775bd3-f8c3-4b74-86cb-50db965fe682)|
-
-# Colors
-
-|**colorsquare**|**hexcode**|
-|---------------|-----------|
-|![][f1e1bd]    |\#f1e1bd   |
-|![][eeba85]    |\#eeba85   |
-|![][e18d76]    |\#e18d76   |
-|![][9c837e]    |\#9c837e   |
-|![][5b7887]    |\#5b7887   |
 
 [//]: # (handy reference-style links)
 
