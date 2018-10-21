@@ -73,6 +73,10 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 |![][eeba85]           |*distributed_wellbeing*                                                                                                |Will Breaden Madden                                              |2016           |                                              |[ref](https://www.wdbm.pro/701e1a41-6fc2-4386-84cb-4540818c784f)|
 |![][5b7887]           |*Apocalypse Now*                                                                                                       |Francis Coppola                                                  |1979-05-10     |                                              |[ref](https://www.wdbm.pro/518900c6-1962-4b33-8799-276a2a4f93de)|
 
+# Resources
+
+|![][f1e1bd]           |*Bellingcat’s Digital Toolkit*                                                                                         |Francis Coppola                                                  |2018-06        |                                              |[ref](https://www.wdbm.pro/9a10dc63-1b46-47e3-b097-3e8900e77c0f)|
+
 # Data
 
 |**relative aesthetic**|**title**                                                                                                              |**author(/s)**/**sources**                                       |**datetime**   |**comments**                                  |**IPUUID4**                                                     |
