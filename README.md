@@ -77,7 +77,7 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 
 |**relative aesthetic**|**title**                                                                                                              |**author(/s)**/**sources**                                       |**datetime**   |**comments**                                  |**IPUUID4**                                                     |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------|----------------------------------------------|----------------------------------------------------------------|
-|![][f1e1bd]           |*Bellingcat’s Digital Toolkit*                                                                                         |Francis Coppola                                                  |2018-06        |                                              |[ref](https://www.wdbm.pro/9a10dc63-1b46-47e3-b097-3e8900e77c0f)|
+|![][f1e1bd]           |*Bellingcat’s Digital Toolkit*                                                                                         |Bellingcat                                                       |2018-06        |                                              |[ref](https://www.wdbm.pro/9a10dc63-1b46-47e3-b097-3e8900e77c0f)|
 
 # Data
 
