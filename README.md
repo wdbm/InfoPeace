@@ -4,6 +4,12 @@
 
 The beginnings of a collection of ideas for societal-level defences against active disinformation campaigns and strategies or: How I learned to stop worrying and start a collaborative repository to try to address mind-hacking and consider development of Kōans for neo-fascists
 
+# Some broad ideas
+
+[*Generalized Network Dismantling*](https://www.wdbm.pro/6332ea7e-18aa-4f5d-9f6c-5203654296a2) suggests ideas that disrupt information networks. While the current generations of [adversarial examples](https://www.wdbm.pro/52dd98ab-161b-4879-91b4-5f8981832540) in the context of machine learning might not be applicable to individual humans, might they be applicable to networks of humans? How would generalized network dismantling techniques in social media be observed? How might they be combatted?
+
+There are many tools available in this context ranging from ethical to unethical. One class of tool is counter-disinformation. Another class of tool is deplatforming or node attenuation.
+
 # IPUUID4
 
 This is a simple general reference format that can be generated in the following way, perhaps as a `.bashrc` function:
@@ -65,6 +71,7 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 |![][e18d76]           |*Prevent Strategy*                                                                                                     |UK Home Office                                                   |2011           |                                              |[ref](https://www.wdbm.pro/ee66cf1c-59f9-40fb-9172-fe0e6042d978)|
 |![][eeba85]           |*Enabling further research of information operations on Twitter*                                                       |Vijaya Gadde, Yoel Roth                                          |2018-10-17     |                                              |[ref](https://www.wdbm.pro/d2393913-1417-4644-90e4-d09fdd3eb265)|
 |![][5b7887]           |*Generalized Network Dismantling*                                                                                      |Xiao-Long Ren, Niels Gleinig, Dirk Helbing, Nino Antulov-Fantulin|2018-01-04     |                                              |[ref](https://www.wdbm.pro/6332ea7e-18aa-4f5d-9f6c-5203654296a2)|
+|![][5b7887]           |*Adversarial examples in the physical world*                                                                           |Alexey Kurakin, Ian Goodfellow, Samy Bengio                      |2016-07-08     |                                              |[ref](https://www.wdbm.pro/52dd98ab-161b-4879-91b4-5f8981832540)|
 |![][5b7887]           |*Believing Bullshit: How Not to Get Sucked into an Intellectual Black Hole*                                            |Stephen Law                                                      |2011           |                                              |[ref](https://www.wdbm.pro/48d4c55d-86b5-4cfe-8b68-33ffbe98c21e)|
 |![][9c837e]           |*Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments*|Justin Kruger, David Dunning                                     |1999           |                                              |[ref](https://www.wdbm.pro/ca20479b-5d43-4177-b035-85e7a2b4c0a4)|
 |![][9c837e]           |*Utopia for Realists*                                                                                                  |Rutger Bregman                                                   |2017           |                                              |[ref](https://www.wdbm.pro/5e66187b-aedd-4974-92bb-19c7bcde1ee1)|
