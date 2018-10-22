@@ -12,7 +12,7 @@ The beginnings of a collection of ideas for societal-level defences against acti
 
 ## Generalized Network Dismantling
 
-[*Generalized Network Dismantling*](https://www.wdbm.pro/6332ea7e-18aa-4f5d-9f6c-5203654296a2) suggests ideas that disrupt information networks. While the current generations of [adversarial examples](https://www.wdbm.pro/52dd98ab-161b-4879-91b4-5f8981832540) in the context of machine learning might not be applicable to individual humans, might they be applicable to networks of humans? How would generalized network dismantling techniques in social media be observed? How might they be combated?
+[*Generalized Network Dismantling*](https://www.wdbm.pro/6332ea7e-18aa-4f5d-9f6c-5203654296a2) suggests ideas that disrupt information networks. While the current generations of [adversarial examples](https://www.wdbm.pro/52dd98ab-161b-4879-91b4-5f8981832540) in the context of machine learning might not be applicable to individual humans, might they be applicable to networks of humans? How would generalized network dismantling techniques in social media be implemented, observed or even combated?
 
 There are many tools available in this context ranging from ethical to unethical. One class of tool is counter-disinformation. Another class of tool is deplatforming/node attenuation.
 
