@@ -111,9 +111,10 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 
 # Gallery
 
-![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-19T1432Z.png)
-![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-23T0224Z.png)
-![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-23T0217Z.png)
+|**content consumption**                                                                |**content consumption**                                                                              |
+|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-19T1432Z.png)|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/skynews-brexit-protest_4377273.jpg)|
+|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-23T0224Z.png)|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-23T0217Z.png)              |
 
 [//]: # (handy reference-style links)
 
