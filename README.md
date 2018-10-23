@@ -36,8 +36,9 @@ ipuuid4(){python -c "import uuid; print(uuid.uuid4())"}
 
 Such identifier codes could be used with a link-shortening service like [ovipositor](https://www.wdbm.pro/ovipositor).
 
-![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/image20181018_175523456.jpg)
-![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/image20181018_175644246.jpg)
+|**content consumption**                                                                              |**content consumption**                                                                              |
+|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/image20181018_175523456.jpg))      |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/image20181018_175644246.jpg)       |
 
 # Aesthetic Colors
 
@@ -111,10 +112,10 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 
 # Gallery
 
-|**content consumption**                                                                |**content consumption**                                                                              |
-|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-19T1432Z.png)|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/skynews-brexit-protest_4377273.jpg)|
-|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-23T0224Z.png)|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-23T0217Z.png)              |
+|**content consumption**                                                                              |**content consumption**                                                                              |
+|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-19T1432Z.png)              |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/skynews-brexit-protest_4377273.jpg)|
+|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-23T0224Z.png)              |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-23T0217Z.png)              |
 
 [//]: # (handy reference-style links)
 
