@@ -1,4 +1,4 @@
-# InfoPeace
+![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/InfoPeace.png)
 
 ![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/McDonalds_Nutrition_Systems.png)
 
@@ -20,7 +20,7 @@ There are many tools available in this context ranging from ethical to unethical
 
 The degree of a vertex in a graph or network is the number of connections it has to other vertices, and the degree distribution is the probability distribution of these degrees over the whole network. A scale-free network is a network that has a degree distribution that follows a power law, at least asymptotically. Examples of scale-free networks might be the scientific paper citation network, or the [webgraph](https://en.wikipedia.org/wiki/Webgraph) of the World Wide Web, or social networks.
 
-Scale-free networks are more robust to random attacks than random network structures but are *more vulnerable* to targeted attacks. Finding the set of influential vertices (the minimal set of vertices the removal of which results in the network fragmented into subnetworks of subcritical size is called the network dismantling problem. It is an NP-hard problem. The paper [*Generalized Network Dismantling*](https://www.wdbm.pro/6332ea7e-18aa-4f5d-9f6c-5203654296a2) attempts to address the question of how to select the set of vertices which, when removed/deactivated/attenuated can stop the spread of (dis)information. The paper posits the idea of the cost of removing a vertex, a non-negative real number, which might be defined by a function of vertex centrality characteristics, such as degree, page-rank, betweenness or other characteristics not suitable for description in a simple graph object.
+Scale-free networks are more robust to random attacks than random network structures but are *more vulnerable* to targeted attacks. Finding the set of influential vertices (the minimal set of vertices the removal of which results in the network fragmented into subnetworks of subcritical size) is called the network dismantling problem. It is an NP-hard problem. The paper [*Generalized Network Dismantling*](https://www.wdbm.pro/6332ea7e-18aa-4f5d-9f6c-5203654296a2) attempts to address the question of how to select the set of vertices which, when removed/deactivated/attenuated can stop the spread of (dis)information. The paper posits the idea of the cost of removing a vertex, a non-negative real number, which might be defined by a function of vertex centrality characteristics, such as degree, page-rank, betweenness or other characteristics not suitable for description in a simple graph object.
 
 ## Activation maximization
 
@@ -109,7 +109,9 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 |----------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------|----------------------------------------------|----------------------------------------------------------------|
 |![][5b7887]           |*Twitter Elections Integrity Database*                                                                                 |Twitter                                                                |2018-10-17     |                                              |[ref](https://www.wdbm.pro/1f775bd3-f8c3-4b74-86cb-50db965fe682)|
 
-![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-19T1432Z.png.png)
+# Gallery
+
+![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-19T1432Z.png)
 
 [//]: # (handy reference-style links)
 
