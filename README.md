@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/InfoPeace.png)
+![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/InfoPeace.gif)
 
 ![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/McDonalds_Nutrition_Systems.png)
 
