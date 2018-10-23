@@ -38,7 +38,7 @@ Such identifier codes could be used with a link-shortening service like [oviposi
 
 |**content consumption**                                                                              |**content consumption**                                                                              |
 |-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/image20181018_175523456.jpg))      |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/image20181018_175644246.jpg)       |
+|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/image20181018_175523456.jpg)       |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/image20181018_175644246.jpg)       |
 
 # Aesthetic Colors
 
