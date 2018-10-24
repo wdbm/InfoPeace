@@ -4,6 +4,10 @@
 
 The beginnings of a collection of ideas for societal-level defences against active disinformation campaigns and strategies or: How I learned to stop worrying and start a collaborative repository to try to address mind-hacking and consider development of Kōans for neo-fascists
 
+# New here? It's ok!
+
+This is an evolving project, so feel free to add comments or ideas material or remove material or whatnot. I guess just try to keep the Markdown pretty neat is all.
+
 # Some broad ideas
 
 ## Observable radicalization networks
