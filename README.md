@@ -12,7 +12,7 @@ This is an evolving project, so feel free to add comments or ideas or material o
 
 ## Quick intro ideas
 
-In [October 2018](https://www.theguardian.com/commentisfree/2018/oct/10/how-deal-fake-feminism-pour-cold-water-lap-russia) a video circulated proporting to illustrate a woman pouring diluted bleach on the groins of men manspreading on the St. Petersburg subway. The media responded predictably in a self-replicating manner with titles of the form "Has she gone too far?". This provoked anti-feminist and pro-feminist responses. It was said later by St. Petersburg magazine Bumuga to have been a hoax, one of the manspreaders apparently open about being a paid actor, and that the hoax was a state-orchestrated hoax.
+In [October 2018](https://www.theguardian.com/commentisfree/2018/oct/10/how-deal-fake-feminism-pour-cold-water-lap-russia) a video circulated proporting to illustrate a woman pouring diluted bleach on the groins of men manspreading on the St. Petersburg subway. The media responded predictably in a self-replicating manner with titles of the form "Has she gone too far?". This provoked anti-feminist and pro-feminist responses. It was said later by St. Petersburg magazine Bumuga to have been a hoax, one of the manspreaders apparently open about being a paid actor, and that the hoax was a state-orchestrated hoax. I suggest that the release of the knowledge that this is a hoax was intentional.
 
 We propose that this hoax, a very minor but clear example, is part of a global disinformation campaign and we wish to explore ways to observe such disinformation and how to combat it, including consideration of counter-disinformation methods.
 
