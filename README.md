@@ -127,10 +127,18 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 
 # Gallery
 
-|**content consumption**                                                                              |**content consumption**                                                                              |
-|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-19T1432Z.png)              |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/skynews-brexit-protest_4377273.jpg)|
-|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-23T0224Z.png)              |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-23T0217Z.png)              |
+|**content consumption**                                                                              |**content consumption**                                                                                      |
+|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-19T1432Z.png)              |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/skynews-brexit-protest_4377273.jpg)        |
+|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-23T0224Z.png)              |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-23T0217Z.png)                      |
+
+# Virtue signalling
+
+|**content consumption**                                                                              |**content consumption**                                                                                      |
+|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2014-02-06.png)                    |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/Christopher_Hitchens_smoking_waterfall.gif)|
+|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2014-04-03T1140.png)               |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2014-10-01T0806.png)                       |
+|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2016-06-05T0633.png)               |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2016-06-13T0810.png)                       |
 
 [//]: # (handy reference-style links)
 
