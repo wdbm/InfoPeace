@@ -12,7 +12,11 @@ This is an evolving project, so feel free to add comments or ideas or material o
 
 ## Quick intro ideas
 
-In October 2018 a video circulated proporting to illustrate 
+In [October 2018](https://www.theguardian.com/commentisfree/2018/oct/10/how-deal-fake-feminism-pour-cold-water-lap-russia) a video circulated proporting to illustrate a woman pouring diluted bleach on men manspreading on the St. Petersburg subway. The self-duplicating media predictably responded with titles featuring "Has she gone too far?". This provoked anti-feminist and pro-feminist responses. It was said later by St. Petersburg magazine Bumuga to have been a hoax, one of the manspreaders apparently open about being a paid actor, and that the hoax was a state-orchestrated hoax.
+
+We propose that this hoax, a very minor but clear example, is part of a global disinformation campaign and we wish to explore ways to observe such disinformation and how to combat it, including consideration of counter-disinformation methods.
+
+The Adam Curtis documentary [*HyperNormalisation*](https://www.wdbm.pro/23959c86-4a06-4d6e-ab02-d99f02348740) offers a historical narrative of the thinking and the people behind these kinds of disinformation campaigns. If it want to start somewhere, viewing that documentary is one plausible place.
 
 ## Observable radicalization networks
 
