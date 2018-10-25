@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/InfoPeace.gif)
 
-*"Truth", it has been said, "is the first cvasualty of war."* -- Philip Snowden, 1916
+*"Truth", it has been said, "is the first casualty of war."* -- Philip Snowden, 1916
 
 The beginnings of a collection of ideas for societal-level defences against active disinformation campaigns and strategies or: How I learned to stop worrying and start a collaborative repository to try to address mind-hacking and consider development of Kōans for neo-fascists
 
