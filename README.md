@@ -4,6 +4,8 @@
 
 The beginnings of a collection of ideas for societal-level defences against active disinformation campaigns and strategies or: How I learned to stop worrying and start a collaborative repository to try to address mind-hacking and consider development of Kōans for neo-fascists
 
+- [InfoPeace newsfeed](#newsfeed)
+
 # New here? It's ok!
 
 This is an evolving project, so feel free to add comments or ideas or material or remove material or whatnot. I guess just try to keep the Markdown pretty neat is all and for now just commit directly to the master branch.
@@ -63,6 +65,14 @@ Such identifier codes could be used with a link-shortening service like [oviposi
 |![][very important      ]|\#e18d76   |
 |![][extremely important ]|\#9c837e   |
 |![][critical            ]|\#5b7887   |
+
+[//]: # (handy reference-style links)
+
+[moderately important]: https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/f1e1bd.png
+[important           ]: https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/eeba85.png
+[very important      ]: https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/e18d76.png
+[extremely important ]: https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/9c837e.png
+[critical            ]: https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/5b7887.png
 
 # Background
 
@@ -144,10 +154,6 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2014-04-03T1140.png) |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2014-10-01T0806.png)                       |
 |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2016-06-05T0633.png) |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2016-06-13T0810.png)                       |
 
-[//]: # (handy reference-style links)
+# Newsfeed
 
-[moderately important]: https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/f1e1bd.png
-[important           ]: https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/eeba85.png
-[very important      ]: https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/e18d76.png
-[extremely important ]: https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/9c837e.png
-[critical            ]: https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/5b7887.png
+- *MI5 to take over in fight against rise of UK rightwing extremism*, Vikram Dodd, 2018-10-28, [ref](https://www.wdbm.pro/5dffbd01-921c-473c-a866-293b42de7873)
