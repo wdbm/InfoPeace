@@ -42,6 +42,27 @@ Scale-free networks are more robust to random attacks than random network struct
 
 Could [activation maximization](https://www.wdbm.pro/f2b7c104-4254-48f9-bb7d-0d9a26084f8e) provide hints at what social network patterns correspond to resonating with the limbic systems of the vertices of [self-isolating groups](https://www.wdbm.pro/52e4ebd8-34ff-4d1b-aae1-17b974fcb62c)?
 
+## Crypto-fascism
+
+A key observable of crypto-fascism is the decrying of open fascism.
+
+- [ref](https://www.wdbm.pro/47b99bf2-049a-45bb-a9d9-9157239fad5d)
+- [ref](https://www.wdbm.pro/72c1cf54-080b-4ccf-b1c7-def8ec3f1b3c)
+
+## Comments on centralized platforms (e.g. traditional newsmedia) can be a fugazi
+
+There are various motivations for this, varying from pushing political agendas to duping advertisers (who fund traditional newsmedia) into thinking that their advertising is affecting.
+
+## the commenting/advertising fugazi
+
+- [ref](https://www.wdbm.pro/ab0032c9-2aff-4c69-8966-96b94529c2fc)
+
+## Some key players/characters
+
+### Nigel Farage
+
+- [ref](https://www.wdbm.pro/39f28261-32cd-4d61-b867-30bce425fd15)
+
 # IPUUID4
 
 This is a simple general reference format that can be generated in the following way, perhaps as a `.bashrc` function:
@@ -167,4 +188,5 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 |2018-10-10  |*Most of the Daily Mail's 'Commentors' Don't Even Exist*                                                          |Paul Dacre                |[ref](https://www.wdbm.pro/f5b050d0-30d4-4b44-b43b-e02056d37060)|
 |2018-10-10  |*How to deal with fake feminism? Pour cold water in its lap*                                                      |Zoe Williams              |[ref](https://www.wdbm.pro/d31b92d4-7021-4565-bf6f-74da00ac6830)|
 |2018-10-03  |*Young Tories' night of shame: Students sport 'f*** the NHS's logan, Hitler moustache and make dodgy hand gesture*|Andy Lines, Adam Aspinall |[ref](https://www.wdbm.pro/858d1389-9243-4e73-b261-a3f935e7f0b5)|
+|2018-09-21  |*Ukip proposes creation of Muslim-only prisons in interim manifesto*                                              |Chris Baynes              |[ref](https://www.wdbm.pro/824066d8-7ae1-472f-a8e1-dcc887031a17)|
 |2018-07-12  |*A no-deal Brexit survival guide: what food to stockpile*                                                         |Dale Berning Sawa         |[ref](https://www.wdbm.pro/8460690e-4d7b-4033-b273-9b99f22b425d)|
