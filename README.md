@@ -53,8 +53,6 @@ A key observable of crypto-fascism is the decrying of open fascism.
 
 There are various motivations for this, varying from pushing political agendas to duping advertisers (who fund traditional newsmedia) into thinking that their advertising is affecting.
 
-## the commenting/advertising fugazi
-
 - [ref](https://www.wdbm.pro/ab0032c9-2aff-4c69-8966-96b94529c2fc)
 
 ## Some key players/characters
