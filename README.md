@@ -141,24 +141,30 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 
 # Gallery
 
-|**content consumption**                                                                |**content consumption**                                                                                      |
-|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-19T1432Z.png)|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/skynews-brexit-protest_4377273.jpg)        |
-|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-23T0224Z.png)|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-23T0217Z.png)                      |
+|**content consumption**                                                                                            |**content consumption**                                                                                            |
+|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-19T1432Z.png)                            |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/skynews-brexit-protest_4377273.jpg)              |
+|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-23T0224Z.png)                            |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-23T0217Z.png)                            |
+|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/media_mail_official_bots_on_daily_mail_pages.jpg)|                                                                                                                   |
 
-|**content consumption**                                                                                                                                                                              |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-23_InfoWars_Patriot_Pantry_Pizza_Kit.png)                                                                                  |
-
+|**content consumption**                                                                                                                                                                                                                |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-23_InfoWars_Patriot_Pantry_Pizza_Kit.png)                                                                                                                    |
 
 # Virtue signalling
 
-|**content consumption**                                                                |**content consumption**                                                                                      |
-|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2014-02-06.png)      |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/Christopher_Hitchens_smoking_waterfall.gif)|
-|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2014-04-03T1140.png) |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2014-10-01T0806.png)                       |
-|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2016-06-05T0633.png) |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2016-06-13T0810.png)                       |
+|**content consumption**                                                                                            |**content consumption**                                                                                            |
+|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2014-02-06.png)                                  |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/Christopher_Hitchens_smoking_waterfall.gif)      |
+|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2014-04-03T1140.png)                             |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2014-10-01T0806.png)                             |
+|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2016-06-05T0633.png)                             |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2016-06-13T0810.png)                             |
 
 # Newsfeed
 
-- *MI5 to take over in fight against rise of UK rightwing extremism*, Vikram Dodd, 2018-10-28, [ref](https://www.wdbm.pro/5dffbd01-921c-473c-a866-293b42de7873)
+|**datetime**|**title**                                                                                                         |**author(/s)**/**sources**|**reference**                                                   |
+|------------|------------------------------------------------------------------------------------------------------------------|--------------------------|----------------------------------------------------------------|
+|2018-10-28  |*MI5 to take over in fight against rise of UK rightwing extremism*                                                |Vikram Dodd               |[ref](https://www.wdbm.pro/5dffbd01-921c-473c-a866-293b42de7873)|
+|2018-10-10  |*Most of the Daily Mail's 'Commentors' Don't Even Exist*                                                          |Paul Dacre                |[ref](https://www.wdbm.pro/f5b050d0-30d4-4b44-b43b-e02056d37060)|
+|2018-10-10  |*How to deal with fake feminism? Pour cold water in its lap*                                                      |Zoe Williams              |[ref](https://www.wdbm.pro/d31b92d4-7021-4565-bf6f-74da00ac6830)|
+|2018-10-03  |*Young Tories' night of shame: Students sport 'f*** the NHS's logan, Hitler moustache and make dodgy hand gesture*|Andy Lines, Adam Aspinall |[ref](https://www.wdbm.pro/858d1389-9243-4e73-b261-a3f935e7f0b5)|
+|2018-07-12  |*A no-deal Brexit survival guide: what food to stockpile*                                                         |Dale Berning Sawa         |[ref](https://www.wdbm.pro/8460690e-4d7b-4033-b273-9b99f22b425d)|
