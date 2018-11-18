@@ -85,6 +85,8 @@ Such identifier codes could be used with a link-shortening service like [oviposi
 
 # Aesthetic Colors
 
+As we live in the [A E S T H E T I C](https://www.wdbm.pro/52840730-e790-44b7-a9b3-5592e7651972) era we may consider using colors instead of mere sterile numbers to express importance.
+
 |**color**                |**hexcode**|
 |-------------------------|-----------|
 |![][moderately important]|\#f1e1bd   |
