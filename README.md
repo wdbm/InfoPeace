@@ -8,7 +8,13 @@ The beginnings of a collection of ideas for societal-level defences against acti
 
 # New here? It's ok!
 
+Being a collaborator or a member of this project doesn't mean you endorse it or any of its sub-ideas!
+
 This is an evolving project, so feel free to add comments or ideas or material or remove material or whatnot. I guess just try to keep the Markdown pretty neat is all and for now just commit directly to the master branch.
+
+# Some suggested theme music for this repository
+
+[![Face Your Fears (Face Russia!) -- Dario Russo](http://i.ytimg.com/vi/3VDj7bTsXLw/maxresdefault.jpg)](https://www.youtube.com/watch?v=3VDj7bTsXLw)
 
 # Some broad ideas
 
@@ -44,9 +50,11 @@ The degree of a vertex in a graph or network is the number of connections it has
 
 Scale-free networks are more robust to random attacks than random network structures but are *more vulnerable* to targeted attacks. Finding the set of influential vertices (the minimal set of vertices the removal of which results in the network fragmented into subnetworks of subcritical size) is called the network dismantling problem. It is an NP-hard problem. The paper [*Generalized Network Dismantling*](https://www.wdbm.pro/6332ea7e-18aa-4f5d-9f6c-5203654296a2) attempts to address the question of how to select the set of vertices which, when removed/deactivated/attenuated can stop the spread of (dis)information. The paper posits the idea of the cost of removing a vertex, a non-negative real number, which might be defined by a function of vertex centrality characteristics, such as degree, page-rank, betweenness or other characteristics not suitable for description in a simple graph object.
 
-## Activation maximization
+## Activation maximization, and the psychology of thinking networks
 
 Could [activation maximization](https://www.wdbm.pro/f2b7c104-4254-48f9-bb7d-0d9a26084f8e) provide hints at what social network patterns correspond to resonating with the limbic systems of the vertices of [self-isolating groups](https://www.wdbm.pro/52e4ebd8-34ff-4d1b-aae1-17b974fcb62c)?
+
+Are there analogies to psychiatric disorders for information networks implemented with humans as vertices, or other thinking networks that are homomorphic? In a social graph, might there be observable a kind of schizophrenia that might indicate that the network is modelling noise or disinformation, or perhaps a kind of autism that might indicate more accurate modelling of information?
 
 ## Crypto-fascism
 
@@ -85,6 +93,8 @@ Such identifier codes could be used with a link-shortening service like [oviposi
 |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/image20181018_175523456.jpg)       |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/image20181018_175644246.jpg)       |
 
 # Aesthetic Colors
+
+As we live in the [A E S T H E T I C](https://www.wdbm.pro/52840730-e790-44b7-a9b3-5592e7651972) era we may consider using colors instead of mere sterile numbers to express importance.
 
 |**color**                |**hexcode**|
 |-------------------------|-----------|
