@@ -22,6 +22,12 @@ The Adam Curtis documentary [*HyperNormalisation*](https://www.wdbm.pro/23959c86
 
 The name of this project *InfoPeace* is in counter-reference to the effort called *InfoWars* which was founded by Alex Jones.
 
+## Past attempts
+
+### Final Speech from *The Great Dictator* -- Charlie Chaplin (1940)
+
+[![Final Speech from *The Great Dictator* -- Charlie Chaplin (1940)](https://img.youtube.com/vi/J7GY1Xg6X20/maxresdefault.jpg)](https://www.youtube.com/watch?v=J7GY1Xg6X20)
+
 ## Observable radicalization networks
 
 [*Alternative Influence: Broadcasting the Reactionary Right on YouTube*](https://www.wdbm.pro/fb6041c5-a4ae-4b5e-bc3f-71d4bcd68d11) attempts to describe an "Alternative Influence Network" (AIN) consisting of a network featuring vertices that use YouTube to communicate information, and attempts to describe characteristics of the vertices. It attempts to qualify, to some degree, the radicalization capabilities of this network.
@@ -59,7 +65,10 @@ There are various motivations for this, varying from pushing political agendas t
 
 ### Nigel Farage
 
+"Farage sits at the intersection of the key forces in a new world order. An order that the old formats can't cope with. What we need to ask is whether a man closely allied to people like Bannon and supportive of Viktor Orbán should be allowed to amplify his propaganda unchallenged on our broadcast media." -- [Carole Cadwalladr, 2018-11-25](https://www.wdbm.pro/1b5b27b6-7f49-4cea-b5e7-aadcb09a5582)
+
 - [ref](https://www.wdbm.pro/39f28261-32cd-4d61-b867-30bce425fd15)
+- [ref](https://www.wdbm.pro/1b5b27b6-7f49-4cea-b5e7-aadcb09a5582)
 
 # IPUUID4
 
@@ -184,6 +193,7 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 
 |**datetime**|**title**                                                                                                         |**author(/s)**/**sources**|**reference**                                                   |
 |------------|------------------------------------------------------------------------------------------------------------------|--------------------------|----------------------------------------------------------------|
+|2018-11-25  |*Who is the real Nigel Farage... and why won't he answer my questions?*                                           |Carole Cadwalladr         |[ref](https://www.wdbm.pro/1b5b27b6-7f49-4cea-b5e7-aadcb09a5582)|
 |2018-11-05  |*Data Craft: The Manipulation of Social Media Metadata*                                                           |Amelia Acker              |[ref](https://www.wdbm.pro/66873fd9-a8f3-4b3a-9d0d-d25298c68718)|
 |2018-10-28  |*MI5 to take over in fight against rise of UK rightwing extremism*                                                |Vikram Dodd               |[ref](https://www.wdbm.pro/5dffbd01-921c-473c-a866-293b42de7873)|
 |2018-10-10  |*Most of the Daily Mail's 'Commentors' Don't Even Exist*                                                          |Paul Dacre                |[ref](https://www.wdbm.pro/f5b050d0-30d4-4b44-b43b-e02056d37060)|
