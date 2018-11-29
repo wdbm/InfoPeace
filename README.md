@@ -69,6 +69,16 @@ There are various motivations for this, varying from pushing political agendas t
 
 - [ref](https://www.wdbm.pro/ab0032c9-2aff-4c69-8966-96b94529c2fc)
 
+### Game Theory of Trust
+
+Fascism relies on a breakdown of public trust. This interactive game thing lays out some ideas from game theory about how this works:
+
+- [ref](https://ncase.me/trust/?fbclid=IwAR31ZB3x0BFSSlaVBSd8ezKIQS2boqfGQYzv0xwmr-ySkTgMDhg3UU7u_W8)
+
+### Ex-White Supremacist TED talk
+
+-[ref](https://www.youtube.com/watch?v=VM6HZqQKhok&t=780s)
+
 ## Some key players/characters
 
 ### Nigel Farage
