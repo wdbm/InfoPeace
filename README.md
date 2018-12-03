@@ -209,6 +209,12 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2014-04-03T1140.png)                             |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2014-10-01T0806.png)                             |
 |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2016-06-05T0633.png)                             |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2016-06-13T0810.png)                             |
 
+# Hypothetical strategies
+
+## neo-fascist milk and "soy boys"
+
+Strength is hypothesized to be valued far over truth in the expression of neo-fascists. In order to undermine their personal sense of strength and their strength as perceived by an audience, attention could be drawn to the near universal experience in mammals of *weaning*, and that milk is evolved to be a high-energy, hormonal liquid best suited to fast growth and protection of babies. Milk is used as a symbol by neo-fascists (presumably because of the color) and consumption of soya products was criticised by Paul Joseph Watson (alt-right, InfoWars) ([ref](https://www.wdbm.pro/74f92fd9-f286-4632-b8d5-4c4b2c7ad5b1). Thus, it might be effective (and indeed beneficial ethically and environmentally) to undermine the drinking of milk by neo-fascists, perhaps expressing a phrase to the effect of "only babies drink milk".
+
 # Newsfeed
 
 |**datetime**|**title**                                                                                                         |**author(/s)**/**sources**|**reference**                                                   |
