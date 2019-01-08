@@ -101,9 +101,9 @@ ipuuid4(){python -c "import uuid; print(uuid.uuid4())"}
 
 Such identifier codes could be used with a link-shortening service like [ovipositor](https://www.wdbm.pro/ovipositor).
 
-|**content consumption**                                                                              |**content consumption**                                                                              |
-|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/image20181018_175523456.jpg)       |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/image20181018_175644246.jpg)       |
+|**content consumption**                                                                       |**content consumption**                                                                              |
+|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/image20181018_175523456.jpg)|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/image20181018_175644246.jpg)       |
 
 # Aesthetic Colors
 
@@ -231,6 +231,7 @@ Strength is hypothesized to be valued far over truth in the expression of neo-fa
 
 |**datetime**|**title**                                                                                                         |**author(/s)**/**sources**|**reference**                                                   |
 |------------|------------------------------------------------------------------------------------------------------------------|--------------------------|----------------------------------------------------------------|
+|2019-01-06  |*Brain scans show social exclusion creates jihadists, say researchers*                                            |Mark Townsend             |[ref](https://www.wdbm.pro/18fa5205-f2d3-48b8-909d-d5934a45446a)|
 |2018-11-25  |*Who is the real Nigel Farage... and why won't he answer my questions?*                                           |Carole Cadwalladr         |[ref](https://www.wdbm.pro/1b5b27b6-7f49-4cea-b5e7-aadcb09a5582)|
 |2018-11-22  |*Tommy Robinson appointed as Ukip's 'grooming gangs adviser'*                                                     |Peter Walker              |[ref](https://www.wdbm.pro/3f5ec8fe-4376-419e-87d8-38dac4312b22)|
 |2018-11-05  |*Data Craft: The Manipulation of Social Media Metadata*                                                           |Amelia Acker              |[ref](https://www.wdbm.pro/66873fd9-a8f3-4b3a-9d0d-d25298c68718)|
