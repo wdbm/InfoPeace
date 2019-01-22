@@ -80,7 +80,7 @@ Fascism relies on a breakdown of public trust. This interactive game thing lays 
 
 ### Ex-White Supremacist TED talk
 
--[ref](https://www.youtube.com/watch?v=VM6HZqQKhok&t=780s)
+- [ref](https://www.youtube.com/watch?v=VM6HZqQKhok&t=780s)
 
 ## Some key players/characters
 
@@ -147,6 +147,7 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 |![][extremely important ]|wdbm        |*Solaris*                                                                                                              |Andrei Tarkovsky                                                       |1972-05-13     |                                              |[ref](https://www.wdbm.pro/a4ee0cae-29f6-47b2-92cd-b7e926437659)                                                                  |
 |![][moderately important]|wdbm        |*The Three Stigmata of Palmer Eldritch*                                                                                |Philip K. Dick                                                         |1965           |                                              |[ref](https://www.wdbm.pro/d00658f0-e428-4b2f-8f98-dddb8703d7c6)                                                                  |
 |![][very important      ]|wdbm        |*Causal knowledge and imitation/emulation switching in chimpanzees (Pan troglodytes) and children (Homo sapiens)*      |Victoria Horner, Andrew Whiten                                         |2003-03-17     |                                              |[ref](https://www.wdbm.pro/19b6a86b-e5e1-48cb-8e34-b65998614c63)                                                                  |
+|![][very important      ]|wdbm        |*Experimental evidence of massive-scale emotional contagion through social networks*                                   |Adam D. I. Kramer, Jamie E. Guillory, and Jeffrey T. Hancock           |2014-06-17     |                                              |[ref](https://www.wdbm.pro/3d7f1ec4-47a7-4918-93c9-47ad6d8b7937)                                                                  |
 |![][very important      ]|wdbm        |*Alternative Influence: Broadcasting the Reactionary Right on YouTube*                                                 |Rebecca Lewis                                                          |2018-09        |                                              |[ref](https://www.wdbm.pro/fb6041c5-a4ae-4b5e-bc3f-71d4bcd68d11)                                                                  |
 |![][very important      ]|wdbm        |*Data Craft: The Manipulation of Social Media Metadata*                                                                |Amelia Acker                                                           |2018-11-05     |                                              |[ref](https://www.wdbm.pro/66873fd9-a8f3-4b3a-9d0d-d25298c68718)                                                                  |
 |![][very important      ]|wdbm        |*Stalker*                                                                                                              |Andrei Tarkovsky                                                       |1979           |                                              |[ref](https://www.wdbm.pro/b2142bf8-ee16-4a51-bbab-9c035bc1db68)                                                                  |
