@@ -28,9 +28,9 @@
 - advertising, campaigning, broadcasting
     - [Led By Donkeys (billboard campaign)](https://www.crowdfunder.co.uk/by-donkeys)
         - [Twitter](https://twitter.com/ByDonkeys)
-    - [Proud Bear (billboard campaign](https://proudbear.ru/)
+    - [Proud Bear (billboard campaign)](https://proudbear.ru)
         - [Twitter](https://twitter.com/Pr0ud_Bear)
-    - [Oliver Lennard, Olly Thorn, "Philosophy Tube", YouTuber]()
+    - Oliver Lennard, Olly Thorn, "Philosophy Tube", YouTuber
         - [Twitter](https://twitter.com/philosophytube)
         - [Twitter](https://twitter.com/ollythorn)
         - [YouTube](https://www.youtube.com/user/thephilosophytube)
