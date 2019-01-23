@@ -214,17 +214,26 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2014-04-03T1140.png)                             |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2014-10-01T0806.png)                             |
 |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2016-06-05T0633.png)                             |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2016-06-13T0810.png)                             |
 
-# Hypothetical strategies
+# Strategies
 
-## Mitigating Confirmation Bias on Twitter by Recommending Opposing Views
+## Primed strategies
 
-- [ref](https://www.wdbm.pro/d18efcc9-9c4a-45a8-bb63-9e32db5b7ec1)
+### browser extensions that offer warnings created by experienced journalists
 
-## social status and network opinion dynamics
+- [NewsGuard](https://www.newsguardtech.com/)
+- [NewsGuard Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/newsguard)
 
-- [ref](https://www.wdbm.pro/5de0776d-5334-4343-a927-50f39760ff17)
+### Mitigating Confirmation Bias on Twitter by Recommending Opposing Views
 
-## neo-fascist milk and "soy boys"
+- [ref](https://arxiv.org/abs/1809.03901)
+
+### social status and network opinion dynamics
+
+- [ref](https://link.springer.com/article/10.1007/s13278-016-0389-y)
+
+## Hypothetical strategies
+
+### neo-fascist milk and "soy boys"
 
 Strength is hypothesized to be valued far over truth in the expression of neo-fascists. In order to undermine their personal sense of strength and their strength as perceived by an audience, attention could be drawn to the near universal experience in mammals of *weaning*, and that milk is evolved to be a high-energy, hormonal liquid best suited to fast growth and protection of babies. Milk is used as a symbol by neo-fascists (presumably because of the color) and consumption of soya products was criticised by Paul Joseph Watson (alt-right, InfoWars) [[ref](https://www.wdbm.pro/74f92fd9-f286-4632-b8d5-4c4b2c7ad5b1)]. Thus, it might be effective (and indeed beneficial ethically and environmentally) to undermine the drinking of milk (and so undermining a neo-fascist symbol and their strength by being likened to a baby) by neo-fascists, perhaps expressing a phrase to the effect of "only babies drink milk".
 
@@ -232,6 +241,7 @@ Strength is hypothesized to be valued far over truth in the expression of neo-fa
 
 |**datetime**|**title**                                                                                                         |**author(/s)**/**sources**|**reference**                                                   |
 |------------|------------------------------------------------------------------------------------------------------------------|--------------------------|----------------------------------------------------------------|
+|2019-01-23  |*Don’t trust Daily Mail website, Microsoft browser warns users*                                                   |Jim Waterson              |[ref](https://www.wdbm.pro/61082e59-4058-4288-8001-061d22090bd1)|
 |2019-01-22  |*Trump’s Lawyer Said There Were "No Plans" For Trump Tower Moscow. Here They Are.*                                |Azeen Ghorayshi           |[ref](https://www.wdbm.pro/1dd48045-0b8b-4ea9-a2cc-40651cdf58d2)|
 |2019-01-06  |*Brain scans show social exclusion creates jihadists, say researchers*                                            |Mark Townsend             |[ref](https://www.wdbm.pro/18fa5205-f2d3-48b8-909d-d5934a45446a)|
 |2018-11-25  |*Who is the real Nigel Farage... and why won't he answer my questions?*                                           |Carole Cadwalladr         |[ref](https://www.wdbm.pro/1b5b27b6-7f49-4cea-b5e7-aadcb09a5582)|
