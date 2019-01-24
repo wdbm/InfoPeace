@@ -41,6 +41,8 @@ The name of this project *InfoPeace* is in counter-reference to the effort calle
 
 [*Alternative Influence: Broadcasting the Reactionary Right on YouTube*](https://www.wdbm.pro/fb6041c5-a4ae-4b5e-bc3f-71d4bcd68d11) attempts to describe an "Alternative Influence Network" (AIN) consisting of a network featuring vertices that use YouTube to communicate information, and attempts to describe characteristics of the vertices. It attempts to qualify, to some degree, the radicalization capabilities of this network.
 
+A brief summary of some of the basic concepts in the report is provided by The Serfs [here](https://www.youtube.com/watch?v=HclaKb5LUYY).
+
 ## Generalized Network Dismantling
 
 [*Generalized Network Dismantling*](https://www.wdbm.pro/6332ea7e-18aa-4f5d-9f6c-5203654296a2) suggests ideas that disrupt information networks. While the current generations of [adversarial examples](https://www.wdbm.pro/52dd98ab-161b-4879-91b4-5f8981832540) in the context of machine learning might not be applicable to individual humans, might they be applicable to networks of humans? How would generalized network dismantling techniques in social media be implemented, observed or even combated?
