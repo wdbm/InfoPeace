@@ -3,6 +3,9 @@
 - government
     - [Damian Collins (MP, DCMS chair)](https://damiancollins.com)
         - [Twitter](https://twitter.com/DamianCollins)
+    - [European Commission in the United Kingdom](https://ec.europa.eu/unitedkingdom/home_en)
+        - [Twitter](https://twitter.com/EUlondonrep)
+        - [Facebook](https://www.facebook.com/ECinUK)
     - [MI5 Joint Terrorism Analisys Centre](https://www.mi5.gov.uk/joint-terrorism-analysis-centre)
         - [*MI5 to take over in fight against rise of UK rightwing extremism *](https://www.theguardian.com/uk-news/2018/oct/28/mi5-lead-battle-against-uk-rightwing-extremists-police-action)
 - research and technology
