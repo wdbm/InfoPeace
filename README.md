@@ -229,13 +229,23 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 
 - [ref](https://arxiv.org/abs/1809.03901)
 
+#### Opposing views source material
+
+##### Russell Brand calls out Farage (2014)
+
+[![Russell Brand calls out Farage (2014)](https://img.youtube.com/vi/J7GY1Xg6X20/0.jpg)](https://www.youtube.com/watch?v=J7GY1Xg6X20)
+
+##### RTÉ confronts Farage (2019-01-30)
+
+[![RTÉ confronts Farage (2019-01-30)](https://img.youtube.com/vi/o7idh5BmsWk/0.jpg)](https://www.youtube.com/watch?v=o7idh5BmsWk)
+
 ### social status and network opinion dynamics
 
 - [ref](https://link.springer.com/article/10.1007/s13278-016-0389-y)
 
 ## Hypothetical strategies
 
-### neo-fascist milk and "soy boys"
+### Neo-fascist milk and "soy boys"
 
 Strength is hypothesized to be valued far over truth in the expression of neo-fascists. In order to undermine their personal sense of strength and their strength as perceived by an audience, attention could be drawn to the near universal experience in mammals of *weaning*, and that milk is evolved to be a high-energy, hormonal liquid best suited to fast growth and protection of babies. Milk is used as a symbol by neo-fascists (presumably because of the color) and consumption of soya products was criticised by Paul Joseph Watson (alt-right, InfoWars) [[ref](https://www.wdbm.pro/74f92fd9-f286-4632-b8d5-4c4b2c7ad5b1)]. Thus, it might be effective (and indeed beneficial ethically and environmentally) to undermine the drinking of milk (and so undermining a neo-fascist symbol and their strength by being likened to a baby) by neo-fascists, perhaps expressing a phrase to the effect of "only babies drink milk".
 
