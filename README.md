@@ -239,6 +239,14 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 
 [![RTÉ confronts Farage (2019-01-30)](https://img.youtube.com/vi/zWQ49e_085o/0.jpg)](https://www.youtube.com/watch?v=zWQ49e_085o)
 
+##### Scarfolk Council
+
+- [Scarfolk Council blog](https://scarfolk.blogspot.com)
+
+![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/badges_www-scarfolk-blogspot-com.jpg)
+
+- [PDF version](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/badges_www-scarfolk-blogspot-com.pdf)
+
 ### social status and network opinion dynamics
 
 - [ref](https://link.springer.com/article/10.1007/s13278-016-0389-y)
