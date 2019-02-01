@@ -233,11 +233,11 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 
 ##### Russell Brand calls out Farage (2014)
 
-[![Russell Brand calls out Farage (2014)](https://img.youtube.com/vi/J7GY1Xg6X20/0.jpg)](https://www.youtube.com/watch?v=J7GY1Xg6X20)
+[![Russell Brand calls out Farage (2014)](https://img.youtube.com/vi/o7idh5BmsWk/0.jpg)](https://www.youtube.com/watch?v=o7idh5BmsWk)
 
 ##### RTÉ confronts Farage (2019-01-30)
 
-[![RTÉ confronts Farage (2019-01-30)](https://img.youtube.com/vi/o7idh5BmsWk/0.jpg)](https://www.youtube.com/watch?v=o7idh5BmsWk)
+[![RTÉ confronts Farage (2019-01-30)](https://img.youtube.com/vi/zWQ49e_085o/0.jpg)](https://www.youtube.com/watch?v=zWQ49e_085o)
 
 ### social status and network opinion dynamics
 
