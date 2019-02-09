@@ -242,7 +242,7 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 
 ### browser extensions that offer warnings created by experienced journalists
 
-- [NewsGuard](https://www.newsguardtech.com/)
+- [NewsGuard](https://www.newsguardtech.com)
 - [NewsGuard Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/newsguard)
 
 ### Mitigating Confirmation Bias on Twitter by Recommending Opposing Views
@@ -272,6 +272,14 @@ The following is a proposed order of consumption. Inclusion does not imply endor
 - [ref](https://link.springer.com/article/10.1007/s13278-016-0389-y)
 
 ## Hypothetical strategies
+
+### deplatforming/node-attenuation and education of people, and deplatforming/node-attenuation of newsmedia
+
+Rights to free expression are extremely important, and yet some progressive voices should be heard more and regressive voices should be heard less. Censorship is a dangerous tool of oppression and should be used with great care if it is necessary, and it is possibly preferable for people to be well-educated in spotting bullshit, however this does not address people with mental illnesses or problems and does not address state-backed hacking of the heuristics of neurotypical people. De-platforming, such as that of Alex Jones on Facebook and Twitter may have reduced that character's influence while also not damaging his fundamental rights to free expression (e.g. he can hold a conversation with his friends but he doesn't get to demand the use of someone's loudspeaker).
+
+### newsmedia direct assessment and meta-analysis assessment
+
+Tools of direct assessment, such as [GiveWell](https://www.givewell.org) (charity quality assessments) and [NewsGuard](https://www.newsguardtech.com) (journalism quality assessments), are useful, but meta-analysis of the form Ben Goldachre describes in the book *Bad Pharma* are perhaps needed in more detailed analysis. As an example, assessment of a single article from Russian-owned *The Independent* might yield a result of reasonably acceptable journalism and accuracy, yet the bias might be observable only through a meta-analyses of the general output.
 
 ### Neo-fascist milk and "soy boys"
 
