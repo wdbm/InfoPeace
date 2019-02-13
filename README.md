@@ -81,6 +81,18 @@ Could [activation maximization](https://www.wdbm.pro/f2b7c104-4254-48f9-bb7d-0d9
 
 Are there analogies to psychiatric disorders for information networks implemented with humans as vertices, or other thinking networks that are homomorphic? In a social graph, might there be observable a kind of schizophrenia that might indicate that the network is modelling noise or disinformation, or perhaps a kind of autism that might indicate more accurate modelling of information?
 
+## So what the hell is a fascism anyway?
+
+Well, [as described by Philosophy Tube](https://www.youtube.com/watch?v=bgwS_FMZ3nQ), common features of fascism are as follows:
+
+- less fond of democracy; more fond of dictatorship
+- pro military, pro police
+- pro agression, imperialist foreign policy
+- pro state; nationalist, xenophobic, tying nationalism to race
+- pro toxic masculinity
+- pro capitalism, anti communism
+- racist, anti-semetic
+
 ## Crypto-fascism
 
 A key observable of crypto-fascism is the decrying of open fascism.
