@@ -1,10 +1,10 @@
-## Generalized network dismantling
+# Generalized network dismantling
 
 [*Generalized Network Dismantling*](https://www.wdbm.pro/6332ea7e-18aa-4f5d-9f6c-5203654296a2) suggests ideas that disrupt information networks. While the current generations of [adversarial examples](https://www.wdbm.pro/52dd98ab-161b-4879-91b4-5f8981832540) in the context of machine learning might not be applicable to individual humans, might they be applicable to networks of humans? How would generalized network dismantling techniques in social media be implemented, observed or even combated?
 
 There are many tools available in this context ranging from ethical to unethical. One class of tool is counter-disinformation. Another class of tool is deplatforming/vertex attenuation.
 
-### Scale-free networks
+## Scale-free networks
 
 The degree of a vertex in a graph or network is the number of connections it has to other vertices, and the degree distribution is the probability distribution of these degrees over the whole network. A scale-free network is a network that has a degree distribution that follows a power law, at least asymptotically. Examples of scale-free networks might be the scientific paper citation network, or the [webgraph](https://en.wikipedia.org/wiki/Webgraph) of the World Wide Web, or social networks.
 

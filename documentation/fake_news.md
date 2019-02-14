@@ -4,4 +4,4 @@
 
 There are various motivations for this, varying from pushing political agendas to duping advertisers (who fund traditional newsmedia) into thinking that their advertising is affecting.
 
-- [ref](https://www.wdbm.pro/ab0032c9-2aff-4c69-8966-96b94529c2fc)
+- [*Exclusive - Most of the Daily Mail's 'Commentors' Don't Even Exist*](https://www.farrightwatch.net/2018/09/most-of-daily-mails-commentors-dont.html) -- [John O'Connell](https://twitter.com/jdpoc) (?) (2018-09)
