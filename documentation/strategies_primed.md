@@ -29,6 +29,6 @@ This section is designed to be a clear list of evidence-based actions to be take
 
 - [PDF version](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/badges_www-scarfolk-blogspot-com.pdf)
 
-## social status and network opinion dynamics
+## Social status and network opinion dynamics
 
-- [ref](https://link.springer.com/article/10.1007/s13278-016-0389-y)
+- [*The influence of social status and network structure on consensus building in collaboration networks*](https://link.springer.com/article/10.1007/s13278-016-0389-y) (2016-09-15)
