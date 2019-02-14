@@ -14,7 +14,7 @@ The beginnings of a collection of ideas for societal-level defences against acti
 |[Current attempts](documentation/attempts_current.md)                                    |
 |[Background content](documentation/background.md)                                        |
 |[Observable radicalization networks](documentation/observable_radicalization_networks.md)|
-|[Generalized network dismantling.md](documentation/generalized_network_dismantling.md)   |
+|[Generalized network dismantling](documentation/generalized_network_dismantling.md)      |
 |[The fake news complex](documentation/fake_news.md)                                      |
 |[So what the hell is fascism anyway?](documentation/fascism.md)                          |
 |[Some key actors](documentation/actors.md)                                               |
