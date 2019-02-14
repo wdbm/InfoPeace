@@ -18,7 +18,7 @@ The beginnings of a collection of ideas for societal-level defences against acti
 |[The fake news complex](documentation/fake_news.md)                                      |
 |[So what the hell is fascism anyway?](documentation/fascism.md)                          |
 |[Some key actors](documentation/actors.md)                                               |
-|[Alliances]((documentation/alliances.md)                                                 |
+|[Alliances](documentation/alliances.md)                                                  |
 |[Resources](documentation/resources.md)                                                  |
 |[Data](documentation/data.md)                                                            |
 |[Gallery](documentation/gallery.md)                                                      |
