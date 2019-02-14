@@ -20,6 +20,7 @@
         - [Reddit](https://www.reddit.com/user/_AceLewis)
         - [YouTube](https://www.youtube.com/channel/UCRn4xTmE0IIEPsdt6R0gzcw)
 - journalism
+    - [Bellingcat](https://www.bellingcat.com)
     - [Carole Cadwalladr (journalist)](https://www.theguardian.com/profile/carolecadwalladr)
         - [Twitter](https://twitter.com/carolecadwalla)
     - [Azeen Ghorayshi (journalist)](http://www.azeeng.com)
