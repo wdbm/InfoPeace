@@ -14,15 +14,17 @@ Well, [as described by Philosophy Tube](https://www.youtube.com/watch?v=bgwS_FMZ
 
 A key observable of crypto-fascism is the decrying of open fascism.
 
-- [ref](https://www.wdbm.pro/47b99bf2-049a-45bb-a9d9-9157239fad5d)
-- [ref](https://www.wdbm.pro/72c1cf54-080b-4ccf-b1c7-def8ec3f1b3c)
+- [*UKIP aiming to be 'radical, populist' party*](https://www.bbc.com/news/uk-politics-45593648) -- Gerard Batten (2018-09-21)
+- [*Nigel Farage is 'really upset' at the thought of allowing former EDL member Tommy Robinson to become UKIP member*](https://www.reddit.com/r/unitedkingdom/comments/9hn026/nigel_farage_is_really_upset_at_the_thought_of) (2018-10)
+    - [*Nigel Farage is 'really upset' at the thought of allowing former EDL member Tommy Robinson to become UKIP member*](https://www.standard.co.uk/news/politics/nigel-farage-really-upset-at-thought-of-tommy-robinson-joining-ukip-a3941786.html) -- Olivia Tobin (2018-09-21)
 
 ## Game Theory of Trust
 
 Fascism relies on a breakdown of public trust. This interactive game thing lays out some ideas from game theory about how this works:
 
-- [ref](https://ncase.me/trust/?fbclid=IwAR31ZB3x0BFSSlaVBSd8ezKIQS2boqfGQYzv0xwmr-ySkTgMDhg3UU7u_W8)
+- [*The Evolution of Trust*](https://ncase.me/trust) -- Nicky Case (2017)
+    - [code](https://github.com/ncase/trust)
 
 ## Ex-White Supremacist TED talk
 
-- [ref](https://www.youtube.com/watch?v=VM6HZqQKhok&t=780s)
+- [*My descent into America’s neo-Nazi movement -- and how I got out*](https://www.youtube.com/watch?v=VM6HZqQKhok&t=780s) -- Christian Picciolini, TED talk (2018-04-20)
