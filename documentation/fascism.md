@@ -1,3 +1,5 @@
+[![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/InfoPeace_home.png)](https://github.com/wdbm/InfoPeace/blob/master/README.md)
+
 # So what the hell is fascism anyway?
 
 Well, [as described by Philosophy Tube](https://www.youtube.com/watch?v=bgwS_FMZ3nQ), common features of fascism are as follows:

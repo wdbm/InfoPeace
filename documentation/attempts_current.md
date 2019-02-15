@@ -1,3 +1,5 @@
+[![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/InfoPeace_home.png)](https://github.com/wdbm/InfoPeace/blob/master/README.md)
+
 # Current attempts
 
 ## Boss Da Market -- CP All (2017)

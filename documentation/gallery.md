@@ -1,3 +1,5 @@
+[![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/InfoPeace_home.png)](https://github.com/wdbm/InfoPeace/blob/master/README.md)
+
 # Gallery
 
 |**content consumption**                                                                                            |**content consumption**                                                                                            |

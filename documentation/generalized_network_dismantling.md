@@ -1,3 +1,5 @@
+[![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/InfoPeace_home.png)](https://github.com/wdbm/InfoPeace/blob/master/README.md)
+
 # Generalized network dismantling
 
 [*Generalized Network Dismantling*](https://www.wdbm.pro/6332ea7e-18aa-4f5d-9f6c-5203654296a2) suggests ideas that disrupt information networks. While the current generations of [adversarial examples](https://www.wdbm.pro/52dd98ab-161b-4879-91b4-5f8981832540) in the context of machine learning might not be applicable to individual humans, might they be applicable to networks of humans? How would generalized network dismantling techniques in social media be implemented, observed or even combated?

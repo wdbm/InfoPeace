@@ -1,9 +1,13 @@
 # upcoming
 
+## newsmedia problems
+
+- <https://stopfundinghate.info>
+
 ## bread
 
-- <https://thebreadbook.org/>
-- <https://www.reddit.com/r/BreadTube/comments/8vbne4/the_big_list_of_recommended_books_contemporary/>
+- <https://thebreadbook.org>
+- <https://www.reddit.com/r/BreadTube/comments/8vbne4/the_big_list_of_recommended_books_contemporary>
 
 ## changing minds
 
@@ -26,13 +30,13 @@
 >board and strut around like
 >it's winning.
 
-- reference: <https://www.reddit.com/r/funny/comments/44955o/a_little_wisdom_from_my_physics_professor/>
+- reference: <https://www.reddit.com/r/funny/comments/44955o/a_little_wisdom_from_my_physics_professor>
 
 ### climate change
 
-- <https://www.yaleclimateconnections.org/2017/04/changing-minds-on-a-changing-climate/>
-- <https://www.reddit.com/r/worldnews/comments/a2jzoz/world_bank_doubles_funding_to_200_billion_to/eazf1ml/>
+- <https://www.yaleclimateconnections.org/2017/04/changing-minds-on-a-changing-climate>
+- <https://www.reddit.com/r/worldnews/comments/a2jzoz/world_bank_doubles_funding_to_200_billion_to/eazf1ml>
 
 ### flat earthers
 
-- <https://www.reddit.com/r/videos/comments/a01iyd/flat_earthers_new_app_debunks_their_own_model_why/eaduv9w/>
+- <https://www.reddit.com/r/videos/comments/a01iyd/flat_earthers_new_app_debunks_their_own_model_why/eaduv9w>
