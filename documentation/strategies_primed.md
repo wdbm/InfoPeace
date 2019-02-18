@@ -15,6 +15,10 @@ This section is designed to be a clear list of evidence-based actions to be take
 
 ### Opposing views source material
 
+### Led By Donkeys (billboard campaign)
+
+- [Twitter video providing audio evidence for the source material of the billboards](https://twitter.com/ByDonkeys/status/1097022587526352896)
+
 #### Russell Brand calls out Farage (2014)
 
 [![Russell Brand calls out Farage (2014)](https://img.youtube.com/vi/o7idh5BmsWk/0.jpg)](https://www.youtube.com/watch?v=o7idh5BmsWk)
