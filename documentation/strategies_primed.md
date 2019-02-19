@@ -27,6 +27,10 @@ This section is designed to be a clear list of evidence-based actions to be take
 
 [![RTÉ confronts Farage (2019-01-30)](https://img.youtube.com/vi/zWQ49e_085o/0.jpg)](https://www.youtube.com/watch?v=zWQ49e_085o)
 
+#### Eric Andre crashes Alex Jones rally
+
+[![Eric Andre Crashes Alex Jones Rally* -- Eric Andre (2018-07-27)](https://img.youtube.com/vi/HTolUJH-_W0/maxresdefault.jpg)](https://www.youtube.com/watch?v=HTolUJH-_W0)
+
 #### Scarfolk Council
 
 - [Scarfolk Council blog](https://scarfolk.blogspot.com)
