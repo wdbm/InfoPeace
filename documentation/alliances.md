@@ -51,3 +51,5 @@
         - [Twitter](https://twitter.com/xychelsea)
     - [James Patrick](https://jjpatrick.com/)
         - [Twitter](https://twitter.com/J_amesp)
+    - [Jamie Gallagher](https://www.jamiebgall.co.uk), Glasgow scienctist, science communicator
+        - [Twitter](https://twitter.com/JamieBGall)
