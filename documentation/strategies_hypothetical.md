@@ -2,6 +2,11 @@
 
 # Hypothetical strategies
 
+## "The New Green Deal": decreasing wealth inequality by framing responses to climate change as the moral equivalent of war
+
+- [Bregman linking socio-economic benefits of war-time with framing responses to climate change as the moral equivalent of war](https://www.youtube.com/watch?v=r5LtFnmPruU&t=14m40s), *The Cost of Inequality* panel session, World Economic Forum, Davos (2019-01-25)
+    - [Twitter communication of WBM with Bregman raising the existence of the *Extinction Rebellion* social movement](https://twitter.com/WBreadenMadden/status/1095123727749185536) (2019-02-11)
+
 ## deplatforming/node-attenuation and education of people, and deplatforming/node-attenuation of newsmedia
 
 Rights to free expression are extremely important, and yet some progressive voices should be heard more and regressive voices should be heard less. Censorship is a dangerous tool of oppression and should be used with great care if it is necessary, and it is possibly preferable for people to be well-educated in spotting bullshit, however this does not address people with mental illnesses or problems and does not address state-backed hacking of the heuristics of neurotypical people. De-platforming, such as that of Alex Jones on Facebook and Twitter may have reduced that character's influence while also not damaging his fundamental rights to free expression (e.g. he can hold a conversation with his friends but he doesn't get to demand the use of someone's loudspeaker).
