@@ -19,6 +19,10 @@ This section is designed to be a clear list of evidence-based actions to be take
 
 - [Twitter video providing audio evidence for the source material of the billboards](https://twitter.com/ByDonkeys/status/1097022587526352896)
 
+#### MEP Anna Maria Corazza Bildt calls out Farage (2019-02-19)
+
+- <https://www.belfasttelegraph.co.uk/video-news/mep-calls-nigel-farage-the-biggest-liar-in-europe-during-brexit-debate-37832036.html>
+
 #### Russell Brand calls out Farage (2014)
 
 [![Russell Brand calls out Farage (2014)](https://img.youtube.com/vi/o7idh5BmsWk/0.jpg)](https://www.youtube.com/watch?v=o7idh5BmsWk)
