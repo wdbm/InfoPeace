@@ -2,6 +2,8 @@
 
 # Hypothetical strategies
 
+This section details hypothetical strategies that are pure hypothesis or that require further study or that have not been implemented or that are otherwise lacking evidence of effectiveness.
+
 ## "The New Green Deal": decreasing wealth inequality by framing responses to climate change as the moral equivalent of war
 
 - [Bregman linking socio-economic benefits of war-time with framing responses to climate change as the moral equivalent of war](https://www.youtube.com/watch?v=r5LtFnmPruU&t=14m40s), *The Cost of Inequality* panel session, World Economic Forum, Davos (2019-01-25)

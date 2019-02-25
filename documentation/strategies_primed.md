@@ -2,7 +2,7 @@
 
 # Primed strategies
 
-This section is designed to be a clear list of evidence-based actions to be taken in order to counter disinformation, and this list may feature identifiers for agents tasked with these actions. A proximal target is to stop Brexit disinformation and misinformation.
+This section is designed to be a clear list of evidence-based actions that have been taken or that can be taken  in order to counter disinformation, and this list may feature identifiers for agents tasked with these actions. A proximal target is to stop Brexit disinformation and misinformation, but more generally it is to ensure there are implemented, actional protections against disinformation tactics.
 
 ## browser extensions that offer warnings created by experienced journalists
 
