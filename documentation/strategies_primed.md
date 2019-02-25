@@ -9,6 +9,16 @@ This section is designed to be a clear list of evidence-based actions to be take
 - [NewsGuard](https://www.newsguardtech.com)
 - [NewsGuard Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/newsguard)
 
+## Quiz-based knowledge barriers to comments sections
+
+There are suggestions that many news media comments sections are a fugazi, made by staffers or machines:
+
+- [*Exclusive - Most of the Daily Mail's 'Commentors' Don't Even Exist*](https://www.farrightwatch.net/2018/09/most-of-daily-mails-commentors-dont.html) -- [John O'Connell](https://twitter.com/jdpoc) (?) (2018-09)
+
+However, many comments are by humans. One approach is to enforce a knowledge quiz before empowering the ability of a human to comment. For instance, he Norwegian news site NRKbeta requires commenters to display a basic understanding of an article before they can use the platform to make a comment on the article. The goal is to discourage uninformed "rant modes" and to foster more productive, positive and educated conversations among readers.
+
+- [*With a quiz to comment, readers test their article comprehension*](https://nrkbeta.no/2017/08/10/with-a-quiz-to-comment-readers-test-their-article-comprehension) -- Ståle Grut	 (2017-08-10)
+
 ## Mitigating Confirmation Bias on Twitter by Recommending Opposing Views
 
 - [ref](https://arxiv.org/abs/1809.03901)
