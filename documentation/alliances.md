@@ -54,3 +54,4 @@
         - [Twitter](https://twitter.com/J_amesp)
     - [Jamie Gallagher](https://www.jamiebgall.co.uk), Glasgow scientist, science communicator
         - [Twitter](https://twitter.com/JamieBGall)
+    - Quentin Tarantino
