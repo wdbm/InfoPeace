@@ -27,4 +27,8 @@ A brief summary of some of the basic concepts in the report is provided by The S
 
 ![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/the-uk-news.png)
 
-- <https://www.dublinnews.com>
+- <https://www.theuknews.com>
+
+A sub-site has a generic appearance like the following:
+
+![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2019-03-05T1826Z_The_UK_News.png)
