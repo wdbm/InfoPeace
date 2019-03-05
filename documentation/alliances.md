@@ -8,9 +8,14 @@
     - [European Commission in the United Kingdom](https://ec.europa.eu/unitedkingdom/home_en)
         - [Twitter](https://twitter.com/EUlondonrep)
         - [Facebook](https://www.facebook.com/ECinUK)
-    - [MI5 Joint Terrorism Analisys Centre](https://www.mi5.gov.uk/joint-terrorism-analysis-centre)
+    - [MI5 Joint Terrorism Analysis Centre](https://www.mi5.gov.uk/joint-terrorism-analysis-centre)
         - [*MI5 to take over in fight against rise of UK rightwing extremism *](https://www.theguardian.com/uk-news/2018/oct/28/mi5-lead-battle-against-uk-rightwing-extremists-police-action)
 - research and technology
+    - [DisinfoPortal](https://disinfoportal.org) (Atlantic Council)
+        - [YouTube *About DisinfoPortal*](https://www.youtube.com/watch?v=r8hH43ucjI0) -- 2018-03-08
+    - [Bellingcat](https://www.bellingcat.com)
+    - [Center for Humane Technology](http://humanetech.com)
+        - [Twitter](https://twitter.com/HumaneTech_)
     - [The Computational Propaganda Project (Oxford Internet Institute, University of Oxford)](https://comprop.oii.ox.ac.uk)
     - [NewsGuard](https://www.newsguardtech.com)
     - [Data & Society](https://datasociety.net)
@@ -26,7 +31,6 @@
         - [Reddit](https://www.reddit.com/user/_AceLewis)
         - [YouTube](https://www.youtube.com/channel/UCRn4xTmE0IIEPsdt6R0gzcw)
 - journalism
-    - [Bellingcat](https://www.bellingcat.com)
     - [Carole Cadwalladr (journalist)](https://www.theguardian.com/profile/carolecadwalladr)
         - [Twitter](https://twitter.com/carolecadwalla)
     - [Azeen Ghorayshi (journalist)](http://www.azeeng.com)
