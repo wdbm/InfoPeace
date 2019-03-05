@@ -14,6 +14,10 @@
     - [The Computational Propaganda Project (Oxford Internet Institute, University of Oxford)](https://comprop.oii.ox.ac.uk)
     - [NewsGuard](https://www.newsguardtech.com)
     - [Data & Society](https://datasociety.net)
+    - [89up](http://www.89up.org/)
+        - [*How a suspicious Facebook page is pushing pro-Brexit ads to millions*](https://www.wired.co.uk/article/brexit-facebook-ads-mainstream-chequers-89up-dcms) -- 2018-10-19
+        - Michael Harris
+            - [Twitter](https://twitter.com/mjrharris)
     - [Amelia Acker](http://www.ameliaacker.com)
         - [Twitter](https://twitter.com/amelia_acker)
     - [Ace Lewis (creator of ZeroNet)](https://acelewis.com)
