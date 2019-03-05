@@ -22,3 +22,9 @@ A brief summary of some of the basic concepts in the report is provided by The S
 ![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/dublin-news.png)
 
 - <https://www.dublinnews.com>
+
+## example sub-site: "The UK News: No doubt about it"
+
+![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/the-uk-news.png)
+
+- <https://www.dublinnews.com>
