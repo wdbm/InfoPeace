@@ -23,6 +23,16 @@ A brief summary of some of the basic concepts in the report is provided by The S
 
 - <https://www.dublinnews.com>
 
+## example sub-site: "Irish Sun: Named after newspaper first published in 1880"
+
+- <https://www.irishsun.com>
+
+## example subsite: IRELAND News.Net
+
+- <https://www.irelandnews.net>
+- <https://twitter.com/irelandnewsnet>
+- <https://www.facebook.com/irelandnews>
+
 ## example sub-site: "The UK News: No doubt about it"
 
 ![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/the-uk-news.png)
