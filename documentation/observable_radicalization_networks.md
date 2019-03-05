@@ -32,3 +32,9 @@ A brief summary of some of the basic concepts in the report is provided by The S
 A sub-site has a generic appearance like the following:
 
 ![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2019-03-05T1826Z_The_UK_News.png)
+
+## example sub-site: "The US News: Onwards and Upwards"
+
+- <https://www.theusnews.com>
+
+![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2019-03-05T1833Z_The_US_News.png)
