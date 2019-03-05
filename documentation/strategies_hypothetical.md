@@ -40,3 +40,8 @@ This is a strategy that might be deployed at universities in order both to send 
 ## Neo-fascist milk and "soy boys"
 
 Strength is hypothesized to be valued far over truth in the expression of neo-fascists. In order to undermine their personal sense of strength and their strength as perceived by an audience, attention could be drawn to the near universal experience in mammals of *weaning*, and that milk is evolved to be a high-energy, hormonal liquid best suited to fast growth and protection of babies. Milk is used as a symbol by neo-fascists (presumably because of the color) and consumption of soya products was criticised by Paul Joseph Watson (alt-right, InfoWars) [[ref](https://www.youtube.com/watch?v=FTSvLKY7HEk)]. Thus, it might be effective (and indeed beneficial ethically and environmentally) to undermine the drinking of milk (and so undermining a neo-fascist symbol and their strength by being likened to a baby) by neo-fascists, perhaps expressing a phrase to the effect of "only babies drink milk".
+
+## InVID, a tool to assess video reliability
+
+- <https://www.disinfo.eu/2019/02/01/webinar-invid-a-tool-to-assess-video-reliability-with-denis-teyssou-from-agence-france-presse-afp-2>
+- <https://www.invid-project.eu>

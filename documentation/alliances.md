@@ -14,6 +14,7 @@
     - [DisinfoPortal](https://disinfoportal.org) (Atlantic Council)
         - [YouTube *About DisinfoPortal*](https://www.youtube.com/watch?v=r8hH43ucjI0) -- 2018-03-08
     - [Bellingcat](https://www.bellingcat.com)
+    - [EU DisinfoLab](https://www.disinfo.eu)
     - [Center for Humane Technology](http://humanetech.com)
         - [Twitter](https://twitter.com/HumaneTech_)
     - [The Computational Propaganda Project (Oxford Internet Institute, University of Oxford)](https://comprop.oii.ox.ac.uk)
