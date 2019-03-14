@@ -8,6 +8,13 @@ A brief summary of some of the basic concepts in the report is provided by The S
 
 [Spoilers follow.] The 2015 film *Look Who's Back* (*Er Ist Wieder Da*) has the premise that Hitler appears in modern-day Germany and it illustrates the reactions of German people to this spectacle of Hitler interacting with contemporary society. It shows how people start to view him as a humourous or edgy meme but gradually move to think that some of what he says is reasonable.
 
+# Newsmedia perhaps worth investigating
+
+Alexander Lebedev, a former KGB officer, has a degree of control over the following newspapers:
+
+- The Independent [[ref](https://en.wikipedia.org/wiki/The_Independent#2010%E2%80%932016)]
+- Evening Standard/London Evening Standard [[ref](https://en.wikipedia.org/wiki/Evening_Standard#Lebedev_takeover)]
+
 # Mainstream Media
 
 ![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/mainstream-media-logo.png)
