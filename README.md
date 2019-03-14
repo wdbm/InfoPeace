@@ -10,13 +10,14 @@ The beginnings of a collection of ideas for societal-level defences against acti
 |[Newsfeed](documentation/newsfeed.md)                                                                                                                           |
 |[Some suggested theme music for this repository](documentation/music.md)                                                                                        |
 |[Introduction and some broad ideas](documentation/introduction.md)                                                                                              |
+|[Examples of misinformation and disinformation](documentation/examples.md)                                                                                      |
 |[Past attempts](documentation/attempts_past.md)                                                                                                                 |
 |[Current attempts](documentation/attempts_current.md)                                                                                                           |
 |[Background content](documentation/background.md)                                                                                                               |
 |[Observable radicalization networks](documentation/observable_radicalization_networks.md)                                                                       |
 |[Neural networks that might be suited to study of underlying structures in non-Euclidean space, such as social network graphs](documentation/neural_networks.md)|
 |[Generalized network dismantling](documentation/generalized_network_dismantling.md)                                                                             |
-|[The fake news complex](documentation/fake_news.md)                                                                                                             |
+|[Breaking news: the fake news complex](documentation/fake_news.md)                                                                                              |
 |[So what the hell is fascism anyway?](documentation/fascism.md)                                                                                                 |
 |[Some key actors](documentation/actors.md)                                                                                                                      |
 |[Alliances](documentation/alliances.md)                                                                                                                         |

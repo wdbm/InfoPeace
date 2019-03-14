@@ -1,6 +1,6 @@
 [![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/InfoPeace_home.png)](https://github.com/wdbm/InfoPeace/blob/master/README.md)
 
-# The fake news complex
+# Breaking news: the fake news complex
 
 ## Comments on centralized platforms (e.g. traditional newsmedia) can be a fugazi
 
