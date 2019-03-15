@@ -10,9 +10,10 @@
 
 The logo of the Iron Front, the Antifascist Circle, was designed by Sergei Tschachotin (Serge Chakotin), a Russian biologist and friend of Albert Einstein.
 
-|                                                                                 |                                                                                                       |
-|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-|![](https://upload.wikimedia.org/wikipedia/commons/c/c0/Eiserne_Front_Symbol.svg)|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/99a93519e85250b91599aab3aea7928e.jpg)|
+|                                                                                           |                                                                                                                            |
+|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+|![](https://upload.wikimedia.org/wikipedia/commons/c/c0/Eiserne_Front_Symbol.svg)          |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/99a93519e85250b91599aab3aea7928e.jpg)                     |
+|![](https://upload.wikimedia.org/wikipedia/en/1/16/Cover_of_Dreipfeil_gegen_Hakenkreuz.jpg)|![](https://upload.wikimedia.org/wikipedia/commons/3/3b/Polish_Bund_50_year_anniversary_celebration%2C_15_November_1947.jpg)|
 
 Some Unicode characters that could be used in its likeness are as follows:
 
