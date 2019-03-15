@@ -8,8 +8,8 @@
 
 ## Iron Front
 
-The logo of the Iron Front, the Antifascist Circle was designed by Sergei Tschachotin (Serge Chakotin), a Russian biologist and friend of Albert Einstein.
+The logo of the Iron Front, the Antifascist Circle, was designed by Sergei Tschachotin (Serge Chakotin), a Russian biologist and friend of Albert Einstein.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c0/Eiserne_Front_Symbol.svg)
 
-- *Le viol des foules par la propagande politique* [*The rape of the masses; the psychology of totalitarian political propaganda*](https://archive.org/details/in.ernet.dli.2015.216264) -- Sergei Tschachotin (1939, 1940)
+- *Le viol des foules par la propagande politique* [[*The rape of the masses; the psychology of totalitarian political propaganda*](https://archive.org/details/in.ernet.dli.2015.216264)] -- Sergei Tschachotin (1939, 1940)
