@@ -8,6 +8,27 @@ A brief summary of some of the basic concepts in the report is provided by The S
 
 [Spoilers follow.] The 2015 film *Look Who's Back* (*Er Ist Wieder Da*) has the premise that Hitler appears in modern-day Germany and it illustrates the reactions of German people to this spectacle of Hitler interacting with contemporary society. It shows how people start to view him as a humourous or edgy meme but gradually move to think that some of what he says is reasonable.
 
+# 2019-03-15 Brenton Tarrant live streamed gaming-style mass murder of Muslim people at Al Noor Mosque, Christchurch
+
+"I will carry out and attack against the invaders, and will even live stream the attack via facebook... If I don’t survive the attack, goodbye, godbless and I will see you all in Valhalla!" -- Brenton Tarrant
+
+Tarrant posted preparatory links on 8chan. Fascists spread this via social medua networks such as Facebook, Reddit, Twitter and YouTube. Tarrant mentions influencers PewDiePie and Candace Owens and how *Fortnite* "trained [him] to be a killer".
+
+- [*New Zealand massacre: Tech giants told 'enough is enough' after shooting live-streamed in social media terror attack*](https://www.telegraph.co.uk/news/2019/03/15/new-zealand-massacre-tech-giants-told-enough-enough-shooting) -- Charles Hymas, Ellie Zolfagharifard, The Telegraph (2019-03-15)
+
+"""
+Damian Collins, the chairman of the Commons culture committee, said it appeared to be a "terror attack designed for social media" and demonstrated why there had to be "statutory regulation of the distribution of content online through social networks".
+
+He said: "It's a viral contagion spread through social media, helped by their algorithms. The firms need to carry out a major audit into who was sharing this film and how it was shared. Groups have deliberately spread it and those accounts should be closed down."
+"""
+
+Damian Collins is chair of the DCMS Committee that released [*Disinformation and 'fake news': Final Report*](https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf) (2019-02-18) for the UK House of Commons.
+
+- [*New Zealand Suspect Mixed Death and Disinformation*](https://www.thedailybeast.com/new-zealand-shooting-brenton-tarrant-tried-to-trick-the-world-in-manifesto-video) -- Will Sommer, Kelly Weill (2019-03-15)
+
+- [Wikipedia: Christchurch mosque shootings](https://en.wikipedia.org/wiki/Christchurch_mosque_shootings)
+- [Wikipedia: Gamergate controversy](https://en.wikipedia.org/wiki/Gamergate_controversy)
+
 # Newsmedia perhaps worth investigating
 
 Alexander Lebedev, a former KGB officer, has a degree of control over the following newspapers:

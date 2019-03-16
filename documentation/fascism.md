@@ -12,6 +12,10 @@ Well, [as described by Philosophy Tube](https://www.youtube.com/watch?v=bgwS_FMZ
 - pro capitalism, anti communism
 - racist, anti-semetic
 
+## *Jordan Peterson Doesn't Understand Nazism* -- Three Arrows (2018-05-04)
+
+[![Jordan Peterson Doesn't Understand Nazism](https://img.youtube.com/vi/b8AcmzqFdPM/maxresdefault.jpg)](https://www.youtube.com/watch?v=b8AcmzqFdPM)
+
 ## Crypto-fascism
 
 A key observable of crypto-fascism is the decrying of open fascism.

@@ -2,7 +2,7 @@
 
 *"Truth", it has been said, "is the first casualty of war."* -- Philip Snowden, 1916
 
-The beginnings of a collection of ideas for societal-level defences against active disinformation campaigns and strategies or: How I learned to stop worrying and start a collaborative repository to try to address mind-hacking and consider development of Kōans for neo-fascists
+The beginnings of a collection of ideas for societal-level defences and strategies against disinformation campaigns and techniques of habituation and maniulation, or: How I learned to stop worrying and start a collaborative repository to try to address mind-hacking and consider development of Kōans for neo-fascists
 
 |**Contents**                                                                                                                                                    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -19,7 +19,8 @@ The beginnings of a collection of ideas for societal-level defences against acti
 |[Generalized network dismantling](documentation/generalized_network_dismantling.md)                                                                             |
 |[Breaking news: the fake news complex](documentation/fake_news.md)                                                                                              |
 |[So what the hell is fascism anyway?](documentation/fascism.md)                                                                                                 |
-|[Some key actors](documentation/actors.md)                                                                                                                      |
+|[Left, so what is antifa then?](documentation/antifa.md)                                                                                                        |
+|[Some actors](documentation/actors.md)                                                                                                                          |
 |[Alliances](documentation/alliances.md)                                                                                                                         |
 |[Resources](documentation/resources.md)                                                                                                                         |
 |[Data](documentation/data.md)                                                                                                                                   |
