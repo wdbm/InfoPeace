@@ -32,6 +32,8 @@
         - [Reddit](https://www.reddit.com/user/_AceLewis)
         - [YouTube](https://www.youtube.com/channel/UCRn4xTmE0IIEPsdt6R0gzcw)
 - journalism
+    - [Unicorn Riot](https://discordleaks.unicornriot.ninja/discord)
+        - [Twitter](https://twitter.com/ur_ninja)
     - [Carole Cadwalladr (journalist)](https://www.theguardian.com/profile/carolecadwalladr)
         - [Twitter](https://twitter.com/carolecadwalla)
     - [Azeen Ghorayshi (journalist)](http://www.azeeng.com)

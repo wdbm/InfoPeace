@@ -16,6 +16,10 @@ Well, [as described by Philosophy Tube](https://www.youtube.com/watch?v=bgwS_FMZ
 
 [![Jordan Peterson Doesn't Understand Nazism](https://img.youtube.com/vi/b8AcmzqFdPM/maxresdefault.jpg)](https://www.youtube.com/watch?v=b8AcmzqFdPM)
 
+## alt-right/fascist symbols
+
+- [alt-right Discord server database](https://discordleaks.unicornriot.ninja/discord/user/1445) -- collected by media collective [Unicorn Riot](https://discordleaks.unicornriot.ninja/discord)
+
 ## Crypto-fascism
 
 A key observable of crypto-fascism is the decrying of open fascism.
