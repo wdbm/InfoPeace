@@ -12,7 +12,7 @@ A brief summary of some of the basic concepts in the report is provided by The S
 
 "I will carry out and attack against the invaders, and will even live stream the attack via facebook... If I don’t survive the attack, goodbye, godbless and I will see you all in Valhalla!" -- Brenton Tarrant
 
-Tarrant posted preparatory links on 8chan. Fascists spread this via social medua networks such as Facebook, Reddit, Twitter and YouTube. Tarrant mentions influencers PewDiePie and Candace Owens and how *Fortnite* "trained [him] to be a killer".
+Tarrant posted preparatory links on 8chan. These links were spread via social media networks such as Facebook, Reddit, Twitter and YouTube. Tarrant mentions influencers PewDiePie and Candace Owens and how *Fortnite* "trained [him] to be a killer".
 
 - [*New Zealand massacre: Tech giants told 'enough is enough' after shooting live-streamed in social media terror attack*](https://www.telegraph.co.uk/news/2019/03/15/new-zealand-massacre-tech-giants-told-enough-enough-shooting) -- Charles Hymas, Ellie Zolfagharifard, The Telegraph (2019-03-15)
 
