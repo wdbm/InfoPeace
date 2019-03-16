@@ -8,6 +8,10 @@ A brief summary of some of the basic concepts in the report is provided by The S
 
 [Spoilers follow.] The 2015 film *Look Who's Back* (*Er Ist Wieder Da*) has the premise that Hitler appears in modern-day Germany and it illustrates the reactions of German people to this spectacle of Hitler interacting with contemporary society. It shows how people start to view him as a humourous or edgy meme but gradually move to think that some of what he says is reasonable.
 
+# members of white supremacist Discord servers (data compiled by Unicorn Riot)
+
+- [Where Are All These Fascists Coming From? A List.](https://docs.google.com/document/d/1kpAhm8KO6DYUiYFAFyzURBlkKFTbD0FJqiDnhaWaxtA)
+
 # 2019-03-15 Brenton Tarrant live streamed gaming-style mass murder of Muslim people at Al Noor Mosque, Christchurch
 
 "I will carry out and attack against the invaders, and will even live stream the attack via facebook... If I don’t survive the attack, goodbye, godbless and I will see you all in Valhalla!" -- Brenton Tarrant
