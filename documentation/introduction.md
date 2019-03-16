@@ -11,4 +11,6 @@ We propose that this hoax is a minor but clear example of disinformation tactics
 
 The Adam Curtis documentary [*HyperNormalisation*](https://www.youtube.com/watch?v=nz6u7xRznjY) offers a historical narrative of the thinking and the people behind these kinds of disinformation campaigns. If you want to start somewhere, viewing that documentary is a good place. A current historical picture of the disinformation campaign is offered by the Eobert Evans of *Bellingcat* article [*From Memes to Infowars: How 75 Fascist Activists Were "Red-Pilled"*](https://www.bellingcat.com/news/americas/2018/10/11/memes-infowars-75-fascist-activists-red-pilled).
 
+- [*New Zealand Suffers Mass Shooting And White Nationalism Infects The News*](https://www.youtube.com/watch?v=6uhNaiUwoek) -- The Young Turks (2019-03-16)
+
 The name of this project *InfoPeace* is in counter-reference to the effort called [*InfoWars*](https://en.wikipedia.org/wiki/InfoWars) which was founded by Alex Jones.
