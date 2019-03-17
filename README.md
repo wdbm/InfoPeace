@@ -2,7 +2,7 @@
 
 *"Truth", it has been said, "is the first casualty of war."* -- Philip Snowden, 1916
 
-The beginnings of a collection of ideas for societal-level defences and strategies against disinformation campaigns and techniques of habituation and manipulation, or: How I learned to stop worrying and start a collaborative repository to try to stop mind-hacking and consider development of Kōans to reduce neo-fascism
+The beginnings of a collection of ideas for societal-level defences and strategies against disinformation campaigns and techniques of habituation and manipulation, or: How I learned to stop worrying and start a collaborative repository to try to stop mind-hacking and consider development of Kōans to reduce neo-fascism and to reduce suffering.
 
 |**Contents**                                                                                                                                                    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -27,7 +27,3 @@ The beginnings of a collection of ideas for societal-level defences and strategi
 |[Gallery](documentation/gallery.md)                                                                                                                             |
 |[Strategies primed](documentation/strategies_primed.md)                                                                                                         |
 |[Strategies hypothetical](documentation/strategies_hypothetical.md)                                                                                             |
-
-Obviously, stop fascism and disinformation, but above all: *have fun!* ;)
-
-Fascism has irreparably damaged civilisation. Oppose its roots in contemporary political ideologies, oppose its growth through disinformation and lies, and, if necessary, chop it down it with force.
