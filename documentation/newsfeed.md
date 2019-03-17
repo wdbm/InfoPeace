@@ -1,5 +1,9 @@
 [![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/InfoPeace_home.png)](https://github.com/wdbm/InfoPeace/blob/master/README.md)
 
+# Current tasks
+
+A current task is building connections between the Alternative Influence Network (AIN) and the Stochastic Terrorism Graph (STG). People who are not neurotypical can sometimes be a risk, but a current focus is on thinking about neurotypical people and how to mitigate the mechanisms of the manipulation of their heuristics.
+
 # Newsfeed
 
 |**datetime**|**title**                                                                                                                     |**author(/s)**/**sources**                                                               |**organization**                                                    |**caveats**     |**reference**                                                                                                                                                   |
