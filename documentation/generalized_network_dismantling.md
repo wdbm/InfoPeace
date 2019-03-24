@@ -18,4 +18,4 @@ Could [activation maximization](https://arxiv.org/abs/1605.09304) provide hints 
 
 Are there analogies to psychiatric disorders for information networks implemented with humans as vertices, or other thinking networks that are homomorphic? In a social graph, might there be observable a kind of schizophrenia that might indicate that the network is modelling noise or disinformation, or perhaps a kind of autism that might indicate more accurate modelling of information? [1]
 
-- [1]: [*When the world becomes 'too real': a Bayesian explanation of autistic perception*](https://doi.org/10.1016/j.tics.2012.08.009) -- Elizabeth Pellicano, David Burr (2012)
+- [1] [*When the world becomes 'too real': a Bayesian explanation of autistic perception*](https://doi.org/10.1016/j.tics.2012.08.009) -- Elizabeth Pellicano, David Burr (2012)

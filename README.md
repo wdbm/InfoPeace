@@ -2,7 +2,9 @@
 
 *"Truth", it has been said, "is the first casualty of war."* -- Philip Snowden, 1916
 
-The beginnings of a collection of ideas for societal-level defences and strategies against disinformation campaigns and against techniques of habituation and manipulation, or: How I learned to stop worrying and to start a collaborative repository to try to stop mind-hacking and to consider development of Kōans to reduce neo-fascism and to reduce suffering.
+The beginnings of a collection of ideas for societal-level defences and strategies against disinformation campaigns and against techniques of habituation and manipulation, or:
+
+How I learned to stop worrying and to start a collaborative repository to try to stop mind-hacking and to consider development of Kōans to reduce neo-fascism and to reduce suffering.
 
 |**Contents**                                                                                                                                                    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------|
