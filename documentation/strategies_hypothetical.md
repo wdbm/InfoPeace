@@ -19,6 +19,12 @@ Rights to free expression are extremely important, and yet some progressive voic
 
 Tools of direct assessment, such as [GiveWell](https://www.givewell.org) (charity quality assessments) and [NewsGuard](https://www.newsguardtech.com) (journalism quality assessments), are useful, but meta-analysis of the form Ben Goldachre describes in the book *Bad Pharma* are perhaps needed in more detailed analysis. As an example, assessment of a single article from Russian-owned *The Independent* might yield a result of reasonably acceptable journalism and accuracy, yet the bias might be observable only through a meta-analyses of the general output.
 
+## "If you look back with cringe and embarassment on past versions of yourself, then you are not advancing."
+
+Perhaps there could be a suggestion to, say, download one's Twitter archive so as to compare oneself with past versions of oneself (perhaps analogous to reviewing a diary), with the possible reassurance that "If you look back with cringe and embarassment on past versions of yourself, then you are not advancing." This would be a means of providing a more welcoming environment for the path to deradicalisation.
+
+Note that there is a distinction between a Twitter archive, downloadable from [here](https://twitter.com/settings/account) and Twitter data, downloadable from [here](https://twitter.com/settings/your_twitter_data). The data has overlap, but the Twitter archive comes with a decent, searchable web interface, and is more generally acceptable.
+
 ## "save a Brexiter victim from neo-fascists" day
 
 Following from the research of [*Mitigating Confirmation Bias on Twitter by Recommending Opposing Views*](https://arxiv.org/abs/1809.03901), arrange a day (perhaps as a large coordinated day) in which arm yourself to the teeth with counterpoints against the known battery of disinformation and misinformation and confront at least one Brexit-believer victim in your life. Try to remember that large numbers of people who voted for Brexit were mislead. Remind them that similar tactics were used to trick people in Nazi Germany and give them ways to change with as much dignity as possible.
