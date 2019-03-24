@@ -34,6 +34,9 @@
 - education
     - IREX Citizen Media Literacy Project -- Ukraine (CMLP)
         - [*Students In Ukraine Learn How To Spot Fake Stories, Propaganda And Hate Speech*](https://www.npr.org/2019/03/22/705809811/students-in-ukraine-learn-how-to-spot-fake-stories-propaganda-and-hate-speech) -- Sasha Ingber, NPR, (2019-03-22)
+        - [*IREX Ukraine public service announcement for the Citizen Media Literacy Project (Ukrainian)*](https://www.youtube.com/watch?v=QEEnme-miW4) -- IREXdc, YouTube (2016-02-26)
+        - [Learn to Discern (L2D) - Media Literacy Training](https://www.irex.org/project/learn-discern-l2d-media-literacy-training)
+        - [*Learn To Discern: Citizen Media Literacy in Ukraine and Beyond (9-minute version*)](https://www.youtube.com/watch?v=ktU6ozVkpvY) -- IREXdc, YouTube (2017-10-18)
 - journalism
     - [Unicorn Riot](https://discordleaks.unicornriot.ninja/discord)
         - [Twitter](https://twitter.com/ur_ninja)
