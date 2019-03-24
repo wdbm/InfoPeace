@@ -12,11 +12,3 @@
 |**content consumption**                                                                                                                                                                                                                |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2018-10-23_InfoWars_Patriot_Pantry_Pizza_Kit.png)                                                                                                                    |
-
-# Virtue signalling
-
-|**content consumption**                                                                                            |**content consumption**                                                                                            |
-|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2014-02-06.png)                                  |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/Christopher_Hitchens_smoking_waterfall.gif)      |
-|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2014-04-03T1140.png)                             |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2014-10-01T0806.png)                             |
-|![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2016-06-05T0633.png)                             |![](https://raw.githubusercontent.com/wdbm/InfoPeace/master/media/2016-06-13T0810.png)                             |
