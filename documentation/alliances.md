@@ -31,6 +31,9 @@
         - [Twitter](https://twitter.com/_AceLewis)
         - [Reddit](https://www.reddit.com/user/_AceLewis)
         - [YouTube](https://www.youtube.com/channel/UCRn4xTmE0IIEPsdt6R0gzcw)
+- education
+    - IREX Citizen Media Literacy Project -- Ukraine (CMLP)
+        - [*Students In Ukraine Learn How To Spot Fake Stories, Propaganda And Hate Speech*](https://www.npr.org/2019/03/22/705809811/students-in-ukraine-learn-how-to-spot-fake-stories-propaganda-and-hate-speech) -- Sasha Ingber, NPR, (2019-03-22)
 - journalism
     - [Unicorn Riot](https://discordleaks.unicornriot.ninja/discord)
         - [Twitter](https://twitter.com/ur_ninja)

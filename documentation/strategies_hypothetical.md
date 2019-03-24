@@ -45,3 +45,10 @@ Strength is hypothesized to be valued far over truth in the expression of neo-fa
 
 - <https://www.disinfo.eu/2019/02/01/webinar-invid-a-tool-to-assess-video-reliability-with-denis-teyssou-from-agence-france-presse-afp-2>
 - <https://www.invid-project.eu>
+
+---
+
+# deradicalization
+
+- [*James O'Brien Speaks To Former Vote Leave Staffer Oliver Norgrove*](https://www.youtube.com/watch?v=MGwz-u5otzk) -- LBC
+- [*My descent into America’s neo-Nazi movement -- and how I got out*](https://www.youtube.com/watch?v=VM6HZqQKhok&t=780s) -- Christian Picciolini, TED talk (2018-04-20)
