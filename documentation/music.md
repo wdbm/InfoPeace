@@ -4,7 +4,7 @@
 
 Some music from the show *Danger 5*, the heros of which have the unending goal of killing Hitler:
 
-[![Face Your Fears (Face Russia!) -- Dario Russo](http://i.ytimg.com/vi/3VDj7bTsXLw/maxresdefault.jpg)](https://www.youtube.com/watch?v=3VDj7bTsXLw)
+[![Face Your Fears (Face Russia!) -- Dario Russo](https://i1.sndcdn.com/artworks-000119758137-3fe5j5-t500x500.jpg)](https://soundcloud.com/thelatvianconsulate/face-your-fears-face-russia)
 
 # trailer for *Danger 5*
 
