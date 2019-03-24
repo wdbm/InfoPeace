@@ -2,14 +2,12 @@
 
 Caveat: This is an evolving project that is seeking to come up with ideas to educate about and to undermine disinformation propagation, manipulation methods and to mitigate habituation methods that are happening via such things as the web and newsmedia. As this project is developing, some of the ideas may not be expressed clearly but hopefully it will improve. Adding ideas to this project doesn't mean that you endorse it or any of its sub-ideas.
 
-Events like the Rwanda genocides, wherein large numbers of people engaged in mass murder of their neighbours, can result from seeds of eugenics ideas and radical media hosts and inherent problems in human heuristics and tribalism.
+Events like the Rwanda genocides and the Holocaust, wherein large numbers of people engaged in mass murder of their neighbours, can result from seeds of eugenics ideas and radical media hosts and propaganda and inherent problems in human heuristics and tribalism.
 
 Many people today are being manipulated and warped, often unconsciously, by disinformation and lies and subtle, insidious techniques of habituation, and are being pushed to racism, far-right and fascist ideologies. The web and other media can be used to amplify these mechanisms through control, and lack of control, of flows of information. Just as human brains need protections against cascades of signals, like seizures, so do networks of humans need protections from misinformation, disinformation, manipulation, habituation, stochastic terrorism, and other signatures that result in increased likelihood of suffering. While it is true that final state actors of stochastic terrorism tend to have psychological problems, it appears to be the case that neurotypical humans learn largely through duplication of others, as opposed to largely independent thinking, so can be hacked or gamed into believing disinformation:
 
 - [human heuristics compared with chimpanzee heuristics](https://www.snotr.com/video/5210/Chimps_Vs_Children)
 - [*Causal knowledge and imitation/emulation switching in chimpanzees (Pan troglodytes) and children (Homo sapiens)*](https://sci-hub.tw/10.1007/s10071-004-0239-6)
-
-Examples of large-scale manipulation of general populations into murderous behaviours are the Rwanda genocides and the Holocaust.
 
 Indications that people are being influenced towards fascism and other harmful ideologies can include their subscribing to conspiracy theories such as [QAnon](https://en.wikipedia.org/wiki/QAnon), [The Great Replacement](https://en.wikipedia.org/wiki/The_Great_Replacement_conspiracy_theory) and [the Strauss–Howe generational theory](https://en.wikipedia.org/wiki/Strauss%E2%80%93Howe_generational_theory) (also called the Fourth Turning theory). It is important that they are helped to move away from these influences.
 
