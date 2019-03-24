@@ -18,7 +18,7 @@ There are ways to help. Consider showing them the following game called *Bad New
 
 ---
 
-# Know someone who appears to be a fascist or who is being "red-pilled" down that route? Do you know people that are moderate or centrist and not yet skilled at understanding how fascism and other harmful ideas are propagated online?
+# Know someone who appears to be a fascist or who is being "red-pilled" down that route? Know people that are moderate or centrist and not yet skilled at understanding how fascism and other harmful ideas are propagated online?
 
 Here are some things to show them:
 
