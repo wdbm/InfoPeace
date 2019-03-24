@@ -16,6 +16,8 @@ Scale-free networks are more robust to random attacks than random network struct
 
 Could [activation maximization](https://arxiv.org/abs/1605.09304) provide hints at what social network patterns correspond to resonating with the limbic systems of the vertices of [self-isolating groups](https://www.media.mit.edu/videos/sm-electome-2017-01-31)?
 
-Are there analogies to psychiatric disorders for information networks implemented with humans as vertices, or other thinking networks that are homomorphic? In a social graph, might there be observable a kind of schizophrenia that might indicate that the network is modelling noise or disinformation, or perhaps a kind of autism that might indicate more accurate modelling of information? [1]
+Are there analogies to psychiatric disorders for information networks implemented with humans as vertices, or other thinking networks that are homomorphic? In a social graph, might there be observable a kind of schizophrenia that might indicate that the network is modelling noise or disinformation, or perhaps a kind of autism that might indicate more accurate modelling of information? [1] We have, after all, the observation by Facebook (under questional ethical conditions) of emotional contagion through social networks. [2]
 
 - [1] [*When the world becomes 'too real': a Bayesian explanation of autistic perception*](https://doi.org/10.1016/j.tics.2012.08.009) -- Elizabeth Pellicano, David Burr (2012)
+
+- [2] [*Experimental evidence of massive-scale emotional contagion through social networks*](https://www.pnas.org/content/pnas/111/24/8788.full.pdf) -- Adam D. I. Kramer, Jamie E. Guillory, Jeffrey T. Hancock (2014-06-17)
