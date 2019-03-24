@@ -8,6 +8,10 @@ A brief summary of some of the basic concepts in the report is provided by The S
 
 - [stochastic terrorism](https://en.wiktionary.org/wiki/stochastic_terrorism): "The use of mass public communication, usually against a particular individual or group, which incites or inspires acts of terrorism which are statistically probable but happen seemingly at random."
 
+## *The PewDiePipeline: how edgy humor leads to violence* -- NonCompete (2019-03-23)
+
+[![The PewDiePipeline: how edgy humor leads to violence](https://img.youtube.com/vi/pnmRYRRDbuw/maxresdefault.jpg)](https://www.youtube.com/watch?v=pnmRYRRDbuw)
+
 """
 All of this fits with what the anonymous blogger G2G had to say in his expanded definition of stochastic terrorism: “you heat up the waters and stir the pot, knowing full well that sooner or later a lone wolf will pop up and do the deed. The fact that it will happen is as predictable as the fact that a heated pot of water will eventually boil. But the exact time and place of each incident will remain as random as the appearance of the first bubbles in the boiling pot."
 """
