@@ -22,4 +22,4 @@ This is an archive of "Euromyths" published in UK media that dates from the earl
 
 ## Counter Islamophobia Kit (CIK) Project
 
-- [Dominant Islamophobic Narratives -- Comparative Report](https://cik.leeds.ac.uk/wp-content/uploads/sites/36/2017/07/2017.07.26-WS1-Comparative-Final.pdf) -- Elsa Mescoli, University of Leeds (2017-07)
+- [Dominant Islamophobic Narratives -- Comparative Report](https://cik.leeds.ac.uk/wp-content/uploads/sites/36/2017/07/2017.07.26-WS1-Comparative-Final.pdf) -- Elsa Mescoli, University of Leeds (2017-07-26)
