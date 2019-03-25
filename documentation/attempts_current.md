@@ -19,3 +19,7 @@ This is an archive of "Euromyths" published in UK media that dates from the earl
 - The Daily Express, Daily Mail, Daily Mirror and The Sun all claimed that curved bananas are to be banned [[ref](https://blogs.ec.europa.eu/ECintheUK/bananas-and-brussels)].
 - The Sun that the UK would be forced to switch entirely to metric [[ref](https://blogs.ec.europa.eu/ECintheUK/off-target-by-a-long-shot)].
 - The Independent claimed that a one-size-fits-all "euro condom" is to be rolled out [[ref](https://blogs.ec.europa.eu/ECintheUK/condom-dimensions-to-be-harmonised)].
+
+## Counter Islamophobia Kit (CIK) Project
+
+- [Dominant Islamophobic Narratives -- Comparative Report](https://cik.leeds.ac.uk/wp-content/uploads/sites/36/2017/07/2017.07.26-WS1-Comparative-Final.pdf) -- Elsa Mescoli, University of Leeds (2017-07)
