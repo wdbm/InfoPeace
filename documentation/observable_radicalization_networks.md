@@ -12,6 +12,8 @@ A brief summary of some of the basic concepts in the report is provided by The S
 
 [![The PewDiePipeline: how edgy humor leads to violence](https://img.youtube.com/vi/pnmRYRRDbuw/maxresdefault.jpg)](https://www.youtube.com/watch?v=pnmRYRRDbuw)
 
+[![PewDiePipeline 2: How to Shut it Down](https://img.youtube.com/vi/aqRCSzUTGcM/maxresdefault.jpg)](https://www.youtube.com/watch?v=aqRCSzUTGcM)
+
 """
 All of this fits with what the anonymous blogger G2G had to say in his expanded definition of stochastic terrorism: “you heat up the waters and stir the pot, knowing full well that sooner or later a lone wolf will pop up and do the deed. The fact that it will happen is as predictable as the fact that a heated pot of water will eventually boil. But the exact time and place of each incident will remain as random as the appearance of the first bubbles in the boiling pot."
 """
