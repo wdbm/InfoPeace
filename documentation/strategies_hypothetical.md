@@ -19,6 +19,12 @@ Rights to free expression are extremely important, and yet some progressive voic
 
 Tools of direct assessment, such as [GiveWell](https://www.givewell.org) (charity quality assessments) and [NewsGuard](https://www.newsguardtech.com) (journalism quality assessments), are useful, but meta-analysis of the form Ben Goldachre describes in the book *Bad Pharma* are perhaps needed in more detailed analysis. As an example, assessment of a single article from Russian-owned *The Independent* might yield a result of reasonably acceptable journalism and accuracy, yet the bias might be observable only through a meta-analyses of the general output.
 
+## investigate connections between the Alternative Influence Network (AIN) and the Stochastic Terrorism Graph (STG)
+
+There could be a study on building connections between the Alternative Influence Network (AIN) and the Stochastic Terrorism Graph (STG). People who are not neurotypical can sometimes be a risk, but a focus of this study is on thinking about neurotypical people and how to mitigate the mechanisms of the manipulation of their heuristics.
+
+- [*Alternative Influence: Broadcasting the Reactionary Right on YouTube*](https://datasociety.net/wp-content/uploads/2018/09/DS_Alternative_Influence.pdf) -- Rebecca Lewis (2018-09)
+
 ## "If you look back with cringe and embarassment on past versions of yourself, then you are not advancing."
 
 Perhaps there could be a suggestion to, say, download one's Twitter archive so as to compare oneself with past versions of oneself (perhaps analogous to reviewing a diary), with the possible reassurance that "If you look back with cringe and embarassment on past versions of yourself, then you are not advancing." This would be a means of providing a more welcoming environment for the path to deradicalisation.
@@ -58,5 +64,5 @@ Strength is hypothesized to be valued far over truth in the expression of neo-fa
 
 # deradicalization
 
-- [*James O'Brien Speaks To Former Vote Leave Staffer Oliver Norgrove*](https://www.youtube.com/watch?v=MGwz-u5otzk) -- LBC
+- [*James O'Brien Speaks To Former Vote Leave Staffer Oliver Norgrove*](https://www.youtube.com/watch?v=MGwz-u5otzk) -- James O'Brien, LBC (2019-03-19)
 - [*My descent into America’s neo-Nazi movement -- and how I got out*](https://www.youtube.com/watch?v=VM6HZqQKhok&t=780s) -- Christian Picciolini, TED talk (2018-04-20)

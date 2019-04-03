@@ -2,11 +2,11 @@
 
 # Primed strategies
 
-This section is designed to be a clear list of evidence-based actions that have been taken or that can be taken  in order to counter disinformation, and this list may feature identifiers for agents tasked with these actions. A proximal target is to stop Brexit disinformation and misinformation, but more generally it is to ensure there are implemented, actional protections against disinformation tactics.
+This section is intended to list of evidence-based or otherwise plausible actions that have been taken or that can be taken in order to counter disinformation.
 
 ## Bad News and Education on Disinformation and Propaganda
 
-- [Bad News](https://getbadnews.com) (link to the game)
+- [*Bad News*](https://getbadnews.com) (link to the game)
 - [*The most dangerous game*](https://aboutbadnews.com/social-impact-game)
 - [*Fight disinformation through gaming and education: the Drog media literacy initiative*](https://www.disinfo.eu/2019/01/04/fight-disinformation-through-gaming-and-education-the-drog-media-literacy-initiative) -- EU DisinfoLab (2019-01-04)
 - [*Learn To Discern: Citizen Media Literacy in Ukraine and Beyond (9-minute version*)](https://www.youtube.com/watch?v=ktU6ozVkpvY) -- IREXdc, YouTube (2017-10-18)
@@ -32,7 +32,7 @@ However, many comments are by humans. One approach is to enforce a knowledge qui
 
 ### Opposing views source material
 
-### Led By Donkeys (billboard campaign)
+#### Led By Donkeys (billboard campaign)
 
 - [Twitter video providing audio evidence for the source material of the billboards](https://twitter.com/ByDonkeys/status/1097022587526352896)
 
