@@ -8,9 +8,15 @@ A brief summary of some of the basic concepts in the report is provided by The S
 
 - [stochastic terrorism](https://en.wiktionary.org/wiki/stochastic_terrorism): "The use of mass public communication, usually against a particular individual or group, which incites or inspires acts of terrorism which are statistically probable but happen seemingly at random."
 
+## Newsmemes
+
+- [*The Meme-fication of news*](https://blog.rgbqcd.com/memefication-of-news) -- Bijan Haney (2019-04-02)
+
 ## *The PewDiePipeline: how edgy humor leads to violence* -- NonCompete (2019-03-23)
 
 [![The PewDiePipeline: how edgy humor leads to violence](https://img.youtube.com/vi/pnmRYRRDbuw/maxresdefault.jpg)](https://www.youtube.com/watch?v=pnmRYRRDbuw)
+
+## *PewDiePipeline 2: How to Shut it Down* -- NonCompete (2019-03-30)
 
 [![PewDiePipeline 2: How to Shut it Down](https://img.youtube.com/vi/aqRCSzUTGcM/maxresdefault.jpg)](https://www.youtube.com/watch?v=aqRCSzUTGcM)
 
