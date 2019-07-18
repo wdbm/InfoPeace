@@ -28,5 +28,4 @@ Some Unicode characters that could be used in its likeness are as follows:
 
 ## Don't Be a Sucker -- USA Department of Defense (1947)
 
-https://www.youtube.com/watch?v=vGAqYNFQdZ4
 [![Don't Be a Sucker -- USA Department of Defense (1947)](https://img.youtube.com/vi/vGAqYNFQdZ4/maxresdefault.jpg)](https://www.youtube.com/watch?v=vGAqYNFQdZ4)
