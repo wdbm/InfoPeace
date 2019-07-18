@@ -25,3 +25,8 @@ Some Unicode characters that could be used in its likeness are as follows:
 - ↖↖↖ ([U+2198](http://www.fileformat.info/info/unicode/char/2196/index.htm))
 
 - *Le viol des foules par la propagande politique* [[*The rape of the masses; the psychology of totalitarian political propaganda*](https://archive.org/details/in.ernet.dli.2015.216264)] -- Sergei Tschachotin (1939, 1940)
+
+## Don't Be a Sucker -- USA Department of Defense (1947)
+
+https://www.youtube.com/watch?v=vGAqYNFQdZ4
+[![Don't Be a Sucker -- USA Department of Defense (1947)](https://img.youtube.com/vi/vGAqYNFQdZ4/maxresdefault.jpg)](https://www.youtube.com/watch?v=vGAqYNFQdZ4)
