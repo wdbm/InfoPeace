@@ -4,6 +4,10 @@
 
 This section is intended to list of evidence-based or otherwise plausible actions that have been taken or that can be taken in order to counter disinformation.
 
+## global network-of-network dynamics of the global online hate ecology
+
+- [*Hidden resilience and adaptive dynamics of the global online hate ecology*](https://sci-hub.tw/10.1038/s41586-019-1494-7)
+
 ## Bad News and Education on Disinformation and Propaganda
 
 - [*Bad News*](https://getbadnews.com) (link to the game)
