@@ -10,9 +10,7 @@ How I learned to stop worrying and to start a collaborative repository to try to
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[New here? It's ok!](documentation/new_here.md)                                                                                                                 |
 |[Newsfeed](documentation/newsfeed.md)                                                                                                                           |
-|[Some suggested theme music for this repository](documentation/music.md)                                                                                        |
 |[Introduction and some broad ideas](documentation/introduction.md)                                                                                              |
-|[Examples of misinformation and disinformation](documentation/examples.md)                                                                                      |
 |[Past attempts](documentation/attempts_past.md)                                                                                                                 |
 |[Current attempts](documentation/attempts_current.md)                                                                                                           |
 |[Background content](documentation/background.md)                                                                                                               |
@@ -20,8 +18,8 @@ How I learned to stop worrying and to start a collaborative repository to try to
 |[Neural networks that might be suited to study of underlying structures in non-Euclidean space, such as social network graphs](documentation/neural_networks.md)|
 |[Generalized network dismantling](documentation/generalized_network_dismantling.md)                                                                             |
 |[Breaking news: the fake news complex](documentation/fake_news.md)                                                                                              |
-|[So what the hell is fascism anyway?](documentation/fascism.md)                                                                                                 |
-|[Left, so what is antifa then?](documentation/antifa.md)                                                                                                        |
+|[What is fascism?](documentation/fascism.md)                                                                                                 |
+|[What is antifa (antifascist action)?](documentation/antifa.md)                                                                                                        |
 |[Some actors](documentation/actors.md)                                                                                                                          |
 |[Alliances](documentation/alliances.md)                                                                                                                         |
 |[Resources](documentation/resources.md)                                                                                                                         |
